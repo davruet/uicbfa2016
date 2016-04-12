@@ -1,0 +1,810 @@
+---
+
+# Enter the artists and their images below. This is a markup format known as YAML.
+# The rules:
+# Indentation matters. Use the below format, use spaces, and don't use tabs.
+# Lines starting with a # character are comments, and will be ignored. 
+# If you want to use a colon in a title or name, you have to surround the whole thing in quotes.
+# For a multiline sequence, start with a |
+# For more, see: https://docs.ansible.com/ansible/YAMLSyntax.html
+
+- name: Anna Aiello
+  themes:
+      - "Aesthetics / Material (labor) / Simulacra"
+  images:
+      - caption: '<div class="caption">Anna Aiello. <i>Eating Disorder 1</i>, 2016 / Still from video entitled </i>It’s Not Right But It’s Okay</i>, 1920&nbsp;&times;&nbsp;1080 px</div>'
+        url: photos/aiello-1.jpg
+        thumb: thumbnails/aiello-1_thumb.jpg
+      - caption: '<div class="caption">Anna Aiello. <i>Pop</i>, 2016 / Still from video entitled <i>It’s Not Right But It’s Okay</i>, 1920&nbsp;&times;&nbsp;1080 px</div>'
+        url: photos/aiello-2.jpg
+        thumb: thumbnails/aiello-2_thumb.jpg
+      - caption: '<div class="caption">Anna Aiello. <i>Eating Disorder 2</i>, 2016 / Still from video entitled <i>It’s Not Right But It’s Okay</i>, 1920&nbsp;&times;&nbsp;1080 px</div>'
+        url: photos/aiello-3.jpg
+        thumb: thumbnails/aiello-3_thumb.jpg
+      - caption: '<div class="caption">Anna Aiello. <i>Tough Girl 1</i>, 2016 / Still from video entitled <i>It’s Not Right But It’s Okay</i>, 3264&nbsp;&times;&nbsp;2448 px</div>'
+        url: photos/aiello-4.jpg
+        thumb: thumbnails/aiello-4_thumb.jpg
+      - caption: '<div class="caption">Anna Aiello. <i>Paper Shuffle</i>, 2016 / Still from video entitled <i>It’s Not Right But It’s Okay</i>, 1920&nbsp;&times;&nbsp;1080 px</div>'
+        url: photos/aiello-5.jpg
+        thumb: thumbnails/aiello-5_thumb.jpg
+      - caption: '<div class="caption">Anna Aiello. <i>Tough Girl 2</i>, 2016 / Still from video entitled <i>It’s Not Right But It’s Okay</i>, 3264&nbsp;&times;&nbsp;2448 px</div>'
+        url: photos/aiello-6.jpg
+        thumb: thumbnails/aiello-6_thumb.jpg
+      - caption: '<div class="caption">Anna Aiello. <i>God</i>, 2016 / Still from video entitled <i>It’s Not Right But It’s Okay</i> 1920&nbsp;&times;&nbsp;1080 px</div>'
+        url: photos/aiello-7.jpg
+        thumb: thumbnails/aiello-7_thumb.jpg
+      - caption: '<div class="caption">Anna Aiello. <i>Flowers</i>, 2015 / Animation still 2711&nbsp;&times;&nbsp;2716&nbsp;px</div>'
+        url: photos/aiello-8.jpg
+        thumb: thumbnails/aiello-8_thumb.jpg
+      - caption: '<div class="caption">Anna Aiello. <i>Reflecting Hearts, 2015 / Animation still 4533&nbsp;&times;&nbsp;2383&nbsp;px</div>'
+        url: photos/aiello-9.jpg
+        thumb: thumbnails/aiello-9_thumb.jpg
+
+  text: >
+      <div id="statement"><div class="subtitle">Tall Child</div><p class="statement-text">Humor has always been a coping mechanism through times of stress, and a creative outlet for feelings I can&#8217t unravel. Thus, it seems fitting that my work should be humorous, but connected to deeper experience. By juxtaposing playful imagery and melancholic storytelling, I create two layers in my work. This method allows me to give form to stories that may be too uncomfortable or undeveloped to be presented in traditional narrative form.</p><br><p class="statement-text">Through an eclectic use of visual mediums, I make digital art with old-school techniques, including animation, moving image and collage. My style draws heavily from my studies in graphic design and internet/pop culture, especially in the choice of typography and color, which is usually assertive and charming. I believe that surface legibility is imperative to creating work that will connect to a broad audience. This philosophy sometimes leads to tension between my artistic ideals and design aesthetic, but the strain of working through these goals drives me to push my own ideas of genre and form. My latest work falls inbetween the realms of live performance, puppetry, animation and experimental video.</p><br><p class="statement-text">While anxiously awaiting Frank Ocean&#8217s second album, I will continue to develop my skills in animation and video editing. I will hopefully be employed and have great hair. ~A girl can dream~</p><br><p class="statement-text"><a href="mailto:annagaiello@gmail.com">annagaiello@gmail.com</a></p><br><p class="statement-text"><a href="http://www.annaaiello.com" target="_blank">annaaiello.com</a></p></div>
+
+- name: McKenzie Bigliazzi
+  themes:
+      - "Family / Identity / Memory"
+  images:
+      - caption: '<div class="caption">McKenzie Bigliazzi. <i>Dismantle</i>, 2015 / Black and white digital prints with poem 8"&nbsp;&times;&nbsp;10"</div>'
+        url: photos/bigliazzi-1.jpg
+        thumb: thumbnails/bigliazzi-1_thumb.jpg
+      - caption: '<div class="caption">McKenzie Bigliazzi. <i>Dismantle</i>, 2015 / Black and white digital prints with poem 8"&nbsp;&times;&nbsp;10"</div>'
+        url: photos/bigliazzi-2.jpg
+        thumb: thumbnails/bigliazzi-2_thumb.jpg
+      - caption: '<div class="caption">McKenzie Bigliazzi. <i>Dismantle</i>, 2015 / Black and white digital prints with poem 8"&nbsp;&times;&nbsp;10"</div>'
+        url: photos/bigliazzi-3.jpg
+        thumb: thumbnails/bigliazzi-3_thumb.jpg
+      - caption: '<div class="caption">McKenzie Bigliazzi. <i>I Try to Remember (But This is All I Have)</i>, 2015 / Digital print collage 6&#39;&nbsp;&times;&nbsp;3&#39;</div>'
+        url: photos/bigliazzi-4.jpg
+        thumb: thumbnails/bigliazzi-4_thumb.jpg
+      - caption: '<div class="caption">McKenzie Bigliazzi. <i>At Rest</i>, 2015 / 24"&nbsp;&times;&nbsp;50" digital prints</div>'
+        url: photos/bigliazzi-5.jpg
+        thumb: thumbnails/bigliazzi-5_thumb.jpg
+      - caption: '<div class="caption">McKenzie Bigliazzi. <i>No Vacancy 1</i>, 2016 / Digital prints 8"&nbsp;&times;&nbsp;10"</div>'
+        url: photos/bigliazzi-6.jpg
+        thumb: thumbnails/bigliazzi-6_thumb.jpg
+      - caption: '<div class="caption">McKenzie Bigliazzi. <i>No Vacancy 2</i>, 2016 / Digital prints 8"&nbsp;&times;&nbsp;10"</div>'
+        url: photos/bigliazzi-7.jpg
+        thumb: thumbnails/bigliazzi-7_thumb.jpg
+      - caption: '<div class="caption">McKenzie Bigliazzi. <i>No Vacancy 3</i>, 2016 / Digital prints 8"&nbsp;&times;&nbsp;10"</div>'
+        url: photos/bigliazzi-8.jpg
+        thumb: thumbnails/bigliazzi-8_thumb.jpg
+      - caption: '<div class="caption">McKenzie Bigliazzi. <i>No Vacancy 4</i>, 2016 / Digital prints 8"&nbsp;&times;&nbsp;10"</div>'
+        url: photos/bigliazzi-9.jpg
+        thumb: thumbnails/bigliazzi-9_thumb.jpg
+
+  text: >
+      <div id="statement"><p class="statement-text">I create photographs that are relatable and resonate with the viewer on a personal and general level. My photographs provoke longing of something that once was, and encourage viewers to go back to times they remember or times they want to forget. The mind is selective but why? I highlight the mystery of what is remembered and what is forgotten.</p><br><p class="statement-text">Life is always being documented through photographs. The photograph has a reputation of being a reminder of past times, events and life. We look at photographs and form memories to go along with them. I am preoccupied with the subjective function of memory and how my own experience and self-knowledge are constructed through this imperfect process.</p><br><p class="statement-text">I tend to work with the past because it provokes my fears. While confronting my anxiety about forgetting the important, I see that forgetting is unavoidable. I begin with what I strain to remember on a daily basis. I have discovered obsessions related to the inability to remember, and the selection of what to forget.</p><br><p class="statement-text">I found myself returning to photographs that preserve the physicalities of people I have lost, and the memories that are left. I grapple with the notion that human existence is proven through photographs. How has anyone existed without photographic documentation? I find reassurance when I capture the world around me in a documentary style, making sure to secure anything I may want to look back on. I want to be able to restore the absence of what once was, even if it is only temporary.</p><br><p class="statement-text">After UIC, I will be attending Illinois State University to receive a Masters in Art Education as well as certification to teach K&ndash;12 in the state of Illinois. I will work for ISU&#8217s advertising department. After graduate school, I plan to teach and expand my current photographic business: McKenzie Bigliazzi Photography.</p></div>
+
+- name: Amanda Cervantes
+  themes:
+      - "Family / Identity / Memory"
+  images:
+      - caption: '<div class="caption">Amanda Cervantes. Surrogates, 2016 / Digital inkjet prints, ink, heat activated adhesive 2"&nbsp;&times;&nbsp;2"</div>'
+        url: photos/cervantes-1.jpg
+        thumb: thumbnails/cervantes-1_thumb.jpg
+      - caption: '<div class="caption">Amanda Cervantes. Surrogates, 2016 / Digital inkjet prints, ink, heat activated adhesive 2"&nbsp;&times;&nbsp;2"</div>'
+        url: photos/cervantes-2.jpg
+        thumb: thumbnails/cervantes-2_thumb.jpg
+      - caption: '<div class="caption">Amanda Cervantes. <i>I Have Been Taught How To Be<i>, 2015 ongoing / Digital inkjet print 11"&nbsp;&times;&nbsp;16"</div>'
+        url: photos/cervantes-3.jpg
+        thumb: thumbnails/cervantes-3_thumb.jpg
+      - caption: '<div class="caption">Amanda Cervantes. <i>Mi Mamá Sin Cara</i>, 2016 / Digital inkjet print on foamcore 8.5"&nbsp;&times;&nbsp;12"</div>'
+        url: photos/cervantes-4.jpg
+        thumb: thumbnails/cervantes-4_thumb.jpg
+      - caption: '<div class="caption">Amanda Cervantes. <i>Mi Mamá Sin Cara (Oranges)</i>, 2016 / Digital inkjet print on foamcore 18"&nbsp;&times;&nbsp;6"</div>'
+        url: photos/cervantes-5.jpg
+        thumb: thumbnails/cervantes-5_thumb.jpg
+      - caption: '<div class="caption">Amanda Cervantes. <i>Mi Mama Sin Cara (Sunday)</i>, 2016 / Digital inkjet print on foamcore 8.5"&nbsp;&times;&nbsp;12"</div>'
+        url: photos/cervantes-6.jpg
+        thumb: thumbnails/cervantes-6_thumb.jpg
+      - caption: '<div class="caption">Amanda Cervantes. <i>I Have Been Taught How To Be (A Man)</i>, 2015 / Digital inkjet print 16"&nbsp;&times;&nbsp;20"</div>'
+        url: photos/cervantes-7.jpg
+        thumb: thumbnails/cervantes-7_thumb.jpg
+      - caption: '<div class="caption">Amanda Cervantes. <i>Fifteen</i>, 2015 / Projection still 8.5"&nbsp;&times;&nbsp;11"</div>'
+        url: photos/cervantes-8.jpg
+        thumb: thumbnails/cervantes-8_thumb.jpg
+      - caption: '<div class="caption">Amanda Cervantes. <i>Grocery List Performance</i>, 2014 ongoing / Found shopping lists</div>'
+        url: photos/cervantes-9.jpg
+        thumb: thumbnails/cervantes-9_thumb.jpg
+      - caption: '<div class="caption">Amanda Cervantes. <i>Fifteen</i>, 2015 / Projection still 8.5"&nbsp;&times;&nbsp;11"</div>'
+        url: photos/cervantes-10.jpg
+        thumb: thumbnails/cervantes-10_thumb.jpg
+      - caption: '<div class="caption">Amanda Cervantes. <i>Fifteen</i>, 2015 / Projection still 8.5"&nbsp;&times;&nbsp;11"</div>'
+        url: photos/cervantes-11.jpg
+        thumb: thumbnails/cervantes-11_thumb.jpg
+      - caption: '<div class="caption">Amanda Cervantes. <i>Mi Mamá Sin Cara (Hands)</i>, 2016 / Digital inkjet print on foamcore 24"&nbsp;&times;&nbsp;9"</div>'
+        url: photos/cervantes-12.jpg
+        thumb: thumbnails/cervantes-12_thumb.jpg
+      - caption: '<div class="caption">Amanda Cervantes. <i>I Have Been Taught How To Be (A Woman)</i>, 2015 / Digital inkjet print 16"&nbsp;&times;&nbsp;20"</div>'
+        url: photos/cervantes-13.jpg
+        thumb: thumbnails/cervantes-13_thumb.jpg
+      - caption: '<div class="caption">Amanda Cervantes. <i>I Have Been Taught How To Be (Un Niña)</i>, 2015 / Digital inkjet print 16"&nbsp;&times;&nbsp;20"</div>'
+        url: photos/cervantes-14.jpg
+        thumb: thumbnails/cervantes-14_thumb.jpg
+      - caption: '<div class="caption">Amanda Cervantes. <i>Peinar/Penar</i>, 2014 / Video / Running time: 3:22</div>'
+        url: photos/cervantes-15.jpg
+        thumb: thumbnails/cervantes-15_thumb.jpg
+      - caption: '<div class="caption">Amanda Cervantes. <i>Surprise Dance</i>, 2014 / Video / Running time: 11:35 <a href="https://vimeo.com/110861548" target="_blank">Watch</a></div>'
+        url: photos/cervantes-16.jpg
+        thumb: thumbnails/cervantes-16_thumb.jpg
+      - caption: '<div class="caption">Amanda Cervantes. <i>The Disney Question</i>, 2014 / Video / Running time: 5:25 <a href="https://vimeo.com/107354199" target="_blank">Watch</a></div>'
+        url: photos/cervantes-17.jpg
+        thumb: thumbnails/cervantes-17_thumb.jpg
+      - caption: '<div class="caption">Amanda Cervantes. <i>Just Like You</i>, 2014 / Video / Running time: 3:03 <a href="https://vimeo.com/88838968" target="_blank">Watch</a></div>'
+        url: photos/cervantes-18.jpg
+        thumb: thumbnails/cervantes-18_thumb.jpg
+      - caption: '<div class="caption">Amanda Cervantes. <i>Accidental Twinning</i>, 2014 / Video / Running time: 6:59 <a href="https://vimeo.com/107354198" target="_blank">Watch</a></div>'
+        url: photos/cervantes-19.jpg
+        thumb: thumbnails/cervantes-19_thumb.jpg
+
+  text: >
+      <div id="statement"><div class="subtitle">Artist&nbsp;/ Art Historian&nbsp;/ Art Educator</div><p class="statement-text">I make art about my family and my cultural identity, using my personal experience to raise larger questions of language, gender, immigration and assimilation. Using photography, poetry, video, oral history and objects such as embroidery, heirlooms and other ephemera, I process how cultural systems work within my family and have affected subsequent generations. Growing up in a Mexican household, I was taught to have a specific set of values that I now try to question and challenge as an adult. I want to know why my short hair and queerness is deviant, why the men in my family never smile and how my grandmother&#8217s only daughter was almost not allowed to go to college. But I&#8217m also curious about how these norms are changing and what it means for Latin@s like myself who have to confront their identity as Latino/Chicano, and how we assimilate into American culture.</p><br><p class="statement-text">My work as a community engagement intern at Gallery 400, as well as my love for art history and museums, has inspired me to work with the public to connect people to art. In addition to my own artistic practice, I hope to have a role as a programmer, educator and curator.</p><br><p class="statement-text"><a href="mailto:amanda.cervantes94@gmail.com">amanda.cervantes94@gmail.com</a></p><br><p class="statement-text"><a href="https://vimeo.com/user16852832">Vimeo</a></p></div>
+
+- name: Adam R Cipcic
+  themes:
+      - "Aesthetics / Material (labor) / Simulacra"
+      - "Science / Existentialism"
+  images:
+      - caption: '<div class="caption">Adam R Cipcic. <i>A Momentary Lapse in Reality</i>, 2015 / Oil on canvas 72"&nbsp;&times;&nbsp;62"</div>'
+        url: photos/cipcic-1_a.jpg
+        thumb: thumbnails/cipcic-1_a_thumb.jpg
+      - caption: '<div class="caption">Adam R Cipcic. <i>A Momentary Lapse in Reality</i>, 2015 / Oil on canvas 72"&nbsp;&times;&nbsp;62"</div>'
+        url: photos/cipcic-1_b.jpg
+        thumb: thumbnails/cipcic-1_b_thumb.jpg
+      - caption: '<div class="caption">Adam R Cipcic. <i>As Above, So Below</i>, 2016 / Oil on canvas 48"&nbsp;&times;&nbsp;48"</div>'
+        url: photos/cipcic-2_a.jpg
+        thumb: thumbnails/cipcic-2_a_thumb.jpg
+      - caption: '<div class="caption">Adam R Cipcic. <i>As Above, So Below</i>, 2016 / Oil on canvas 48"&nbsp;&times;&nbsp;48"</div>'
+        url: photos/cipcic-2_b.jpg
+        thumb: thumbnails/cipcic-2_b_thumb.jpg
+      - caption: '<div class="caption">Adam R Cipcic. <i>Atmospheric Topology No. 1</i>, 2016 / Oil and acrylic photo transfers on wood 12"&nbsp;&times;&nbsp;24"</div>'
+        url: photos/cipcic-3.jpg
+        thumb: thumbnails/cipcic-3_thumb.jpg
+      - caption: '<div class="caption">Adam R Cipcic. <i>Atmospheric Topology No. 2</i>, 2016 / Oil and acrylic photo transfers on wood 12"&nbsp;&times;&nbsp;24"</div>'
+        url: photos/cipcic-4.jpg
+        thumb: thumbnails/cipcic-4_thumb.jpg
+      - caption: '<div class="caption">Adam R Cipcic. <i>Atmospheric Topology No. 3</i>, 2016 / Oil and acrylic photo transfers on wood 12"&nbsp;&times;&nbsp;24"</div>'
+        url: photos/cipcic-5.jpg
+        thumb: thumbnails/cipcic-5_thumb.jpg
+      - caption: '<div class="caption">Adam R Cipcic. <i>Atmospheric Topology No. 4</i>, 2016 / Oil and acrylic photo transfers on wood 11"&nbsp;&times;&nbsp;8"</div>'
+        url: photos/cipcic-6.jpg
+        thumb: thumbnails/cipcic-6_thumb.jpg
+      - caption: '<div class="caption">Adam R Cipcic. <i>Atmospheric Topology No. 1</i>, 2016 / Oil and acrylic photo transfers on wood 12"&nbsp;&times;&nbsp;7"</div>'
+        url: photos/cipcic-7.jpg
+        thumb: thumbnails/cipcic-7_thumb.jpg
+      - caption: '<div class="caption">Adam R Cipcic. <i>Alchemic Transmutation</i>, 2015 / Latex and spray paint on wood panel (installation: aluminum, mylar, plaster, canvas) &#91;Triptych&#93; each 24"x 24"</div>'
+        url: photos/cipcic-8_a.jpg
+        thumb: thumbnails/cipcic-8_a_thumb.jpg
+      - caption: '<div class="caption">Adam R Cipcic. <i>Intra-spectrum</i>, 2016 / Fish tank, water, mirrors, LED lights. Installation size contingent on space</div>'
+        url: photos/cipcic-8_b.jpg
+        thumb: thumbnails/cipcic-8_b_thumb.jpg
+      - caption: '<div class="caption">Adam R Cipcic. <i>Intra-spectrum</i>, 2016 / Fish tank, water, mirrors, LED lights. Installation size contingent on space</div>'
+        url: photos/cipcic-9_a.jpg
+        thumb: thumbnails/cipcic-9_a_thumb.jpg
+      - caption: '<div class="caption">Adam R Cipcic. <i>Intra-spectrum</i>, 2016 / Fish tank, water, mirrors, LED lights. Installation size contingent on space</div>'
+        url: photos/cipcic-9_b.jpg
+        thumb: thumbnails/cipcic-9_b_thumb.jpg
+      - caption: '<div class="caption">Adam R Cipcic. <i>Intra-spectrum</i>, 2016 / Fish tank, water, mirrors, LED lights. Installation size contingent on space</div>'
+        url: photos/cipcic-9_c.jpg
+        thumb: thumbnails/cipcic-9_c_thumb.jpg
+      - caption: '<div class="caption">Adam R Cipcic. <i>Intra-spectrum</i>, 2016 / Fish tank, water, mirrors, LED lights. Installation size contingent on space</div>'
+        url: photos/cipcic-9_d.jpg
+        thumb: thumbnails/cipcic-9_d_thumb.jpg
+      - caption: '<div class="caption">Adam R Cipcic. <i>Intra-spectrum</i>, 2016 / Fish tank, water, mirrors, LED lights. Installation size contingent on space</div>'
+        url: photos/cipcic-9_e.jpg
+        thumb: thumbnails/cipcic-9_e_thumb.jpg
+      - caption: '<div class="caption">Adam R Cipcic. <i>Intra-spectrum</i>, 2016 / Fish tank, water, mirrors, LED lights. Installation size contingent on space</div>'
+        url: photos/cipcic-9_f.jpg
+        thumb: thumbnails/cipcic-9_f_thumb.jpg
+      - caption: '<div class="caption">Adam R Cipcic. <i>Intra-spectrum</i>, 2016 / Fish tank, water, mirrors, LED lights. Installation size contingent on space</div>'
+        url: photos/cipcic-9_g.jpg
+        thumb: thumbnails/cipcic-9_g_thumb.jpg
+      - caption: '<div class="caption">Adam R Cipcic. <i>The Changing Landscape</i>, 2016 / Fish tanks, water, dry ice, LED lights. Installation size contingent on space</div>'
+        url: photos/cipcic-10_a.jpg
+        thumb: thumbnails/cipcic-10_a_thumb.jpg
+      - caption: '<div class="caption">Adam R Cipcic. <i>The Changing Landscape</i>, 2016 / Fish tanks, water, dry ice, LED lights. Installation size contingent on space</div>'
+        url: photos/cipcic-10_b.jpg
+        thumb: thumbnails/cipcic-10_b_thumb.jpg
+      - caption: '<div class="caption">Adam R Cipcic. <i>Fata Morgana No.5</i>, 2015 / Acrylic over scanograms on photo on luster paper 7"&nbsp;&times;&nbsp;11"</div>'
+        url: photos/cipcic-11.jpg
+        thumb: thumbnails/cipcic-11_thumb.jpg
+      - caption: '<div class="caption">Adam R Cipcic. <i>Fata Morgana No.5</i>, 2015 / Acrylic over scanograms on photo on luster paper 11"&nbsp;&times;&nbsp;7"</div>'
+        url: photos/cipcic-12.jpg
+        thumb: thumbnails/cipcic-12_thumb.jpg
+      - caption: '<div class="caption">Adam R Cipcic. <i>Our Little Piece of Heaven</i>, 2015 / Oil, acrylic, and latex on found wood 30"&nbsp;&times;&nbsp;80"</div>'
+        url: photos/cipcic-13_a.jpg
+        thumb: thumbnails/cipcic-13_a_thumb.jpg
+      - caption: '<div class="caption">Adam R Cipcic. <i>Our Little Piece of Heaven</i>, 2015 / Oil, acrylic, and latex on found wood 30"&nbsp;&times;&nbsp;80"</div>'
+        url: photos/cipcic-13_b.jpg
+        thumb: thumbnails/cipcic-13_b_thumb.jpg
+      - caption: '<div class="caption">Adam R Cipcic. <i>August 1, 2012&ndash;Eternity</i>, 2015 / Oil and acrylic on wood 48"&nbsp;&times;&nbsp;48"</div>'
+        url: photos/cipcic-14.jpg
+        thumb: thumbnails/cipcic-14_thumb.jpg
+      - caption: '<div class="caption">Adam R Cipcic. <i>Fractured Memori</i>, 2015 / Plaster, mirror, wood, grout, acrylic, wire, and cheesecloth 46"&nbsp;&times;&nbsp;38"&nbsp;&times;&nbsp;22"</div>'
+        url: photos/cipcic-15.jpg
+        thumb: thumbnails/cipcic-15_thumb.jpg
+      - caption: '<div class="caption">Adam R Cipcic. <i>The Hand that Feeds</i>, 2015 / Oil on canvas 48"&nbsp;&times;&nbsp;24"</div>'
+        url: photos/cipcic-16_g.jpg
+        thumb: thumbnails/cipcic-16_thumb.jpg
+
+  text: >
+      <div id="statement"><div class="subtitle">Phenomenological Alchemist</div><p class="statement-text">In observing natural systems one becomes part of them. Their illusionary magic, sublime nature and optical illusions reflect the ineffable and transitory nature of existence. My work engages natural phenomena through an exploration and manipulation of images and material that allows for the malleability and liquefaction of both. By using an alchemic approach, emulating/replicating processes of metamorphosis, I point to the unknown forces and invisible presences that exist in our minds&mdash;surrounding all objects, experiences, and memories&mdash;producing ethereal and psychological effects. My aesthetic synthesizes the organic and the machine tautologically.</p><br><p class="statement-text">I have assembled a series of works that use prisms, interference agents, microreflectors and light to recreate natural phenomena, illusions and the visible spectrum. I am drawn to phenomena that are scientifically explainable, yet leave us without a framework for interpreting of our direct sensory experience, challenging our view of a single, wholly determinable reality with a fluid picture of the senses as participatory organisms that reciprocally interact with their surroundings.</p><br><p class="statement-text">Images of clouds, which are imperceivable to touch, and contain with an ever-changing molecular physicality to them, hold a sense of mysticism to me. I rephrase this by creating scanograms, which topologically transform the landscape, then finally translating these into paintings. They imitate rarely occurring atmospheric mirages, replicating ephemeral moments in the digital realm.</p><br><p class="statement-text">It is unnerving to watch reality bend before one&#8217s eyes, morphed and perplexed by illusion. Something is happening on the horizon. Icebergs, mountains, clouds twist and change shape, move, disappear, elongate. The earth and the sky warp. The bending of light and image reconciles itself in systems of belief.</p><br><p class="statement-text"><a href="mailto:adamcipcic@gmail.com">adamcipcic@gmail.com</a></p></div>
+
+- name: Omar Diaz
+  themes:
+      - "Family / Identity / Memory"
+  images:
+      - caption: '<div class="caption">Omar Diaz. <i>Remnants</i>, 2015 / Ink on photograph 8"&nbsp;&times;&nbsp;5"</div>'
+        url: photos/diaz-1_a.jpg
+        thumb: thumbnails/diaz-1_a_thumb.jpg
+      - caption: '<div class="caption">Omar Diaz. <i>Remnants</i>, 2015 / Ink on photograph 8"&nbsp;&times;&nbsp;5"</div>'
+        url: photos/diaz-1_b.jpg
+        thumb: thumbnails/diaz-1_b_thumb.jpg
+      - caption: '<div class="caption">Omar Diaz. <i>Visions</i>, 2015 / Ink on photograph 8"&nbsp;&times;&nbsp;5"</div>'
+        url: photos/diaz-2_a.jpg
+        thumb: thumbnails/diaz-2_a_thumb.jpg
+      - caption: '<div class="caption">Omar Diaz. <i>Visions</i>, 2015 / Ink on photograph 8"&nbsp;&times;&nbsp;5"</div>'
+        url: photos/diaz-2_b.jpg
+        thumb: thumbnails/diaz-2_b_thumb.jpg
+      - caption: '<div class="caption">Omar Diaz. <i>Visions</i>, 2015 / Ink on photograph 8"&nbsp;&times;&nbsp;5"</div>'
+        url: photos/diaz-2_c.jpg
+        thumb: thumbnails/diaz-2_c_thumb.jpg
+      - caption: '<div class="caption">Omar Diaz. <i>Untitled</i>, 2015 / Pencil on paper 8"&nbsp;&times;&nbsp;11"</div>'
+        url: photos/diaz-3.jpg
+        thumb: thumbnails/diaz-3_thumb.jpg
+      - caption: '<div class="caption">Omar Diaz. <i>Character Design</i>, 2015 / Pencil and ink on paper 9"&nbsp;&times;&nbsp;12"</div>'
+        url: photos/diaz-4_a.jpg
+        thumb: thumbnails/diaz-4_a_thumb.jpg
+      - caption: '<div class="caption">Omar Diaz. <i>Character Design</i>, 2015 / Pencil and ink on paper 9"&nbsp;&times;&nbsp;12"</div>'
+        url: photos/diaz-4_b.jpg
+        thumb: thumbnails/diaz-4_c_thumb.jpg
+      - caption: '<div class="caption">Omar Diaz. <i>Character Design</i>, 2015 / Pencil and ink on paper 9"&nbsp;&times;&nbsp;12"</div>'
+        url: photos/diaz-4_c.jpg
+        thumb: thumbnails/diaz-4_c_thumb.jpg
+      - caption: '<div class="caption">Omar Diaz. <i>3D Model</i>, 2015 / Digital model</div>'
+        url: photos/diaz-5.jpg
+        thumb: thumbnails/diaz-5_thumb.jpg
+      - caption: '<div class="caption">Omar Diaz. <i>Mermaid</i>, 2016 / Hand drawn animation 1280 × 720 px <a href="https://vimeo.com/162416583" target="_blank">Watch</a></div>'
+        url: photos/diaz-6.jpg
+        thumb: thumbnails/diaz-6_thumb.jpg
+      - caption: '<div class="caption">Omar Diaz. <i>Mer Maid</i>, 2015 / Pencil and ink on paper 9"&nbsp;&times;&nbsp;12"</div>'
+        url: photos/diaz-6.jpg
+        thumb: thumbnails/diaz-6_thumb.jpg
+
+  text: >
+      <div id="statement"><div class="subtitle">New Media Artist&nbsp;/ Illustrator&nbsp;/ Photographer</div><p class="statement-text">I find beauty in overlooked spaces such as peeling walls and cracks on concrete, which both have lines I connect to drawings and to my own mark-making. As a child I would often get in trouble for drawing on walls.</p><br><p class="statement-text">This interest has fueled my recent work, such as <i>Remnants</i>, in which I photograph run-down architectural features and ink on top of the printed images. Most of my subjects have been heavily influenced by my childhood, fairytales, pop culture and gender politics.</p><br><p class="statement-text">I&#8217ve always been drawn to fantasy stories and to the creatures described in them. The mermaid has captured my attention as a figure that is not fully human but an in-between and has become a central figure in my recent work. Mermaids are often depicted as erotic female creatures, yet without the human female reproductive organs. I find the mermaid beautiful and alluring through its form, movement and transcendence. Through my animated piece <i>Mermaid</i>, I explore the figure of the mermaid in an attempt to fragment and decipher the attraction to the form.</p><br><p class="statement-text">A related interest is character design. I make character designs for my own animations, stories, games, and sculptures. I&#8217m constantly thinking up mythologies and stories and developing the characters that inhabit them. They are the driving force, the central figures of stories, and have both a figurative and material presence. Through character design, I can incorporate everything from fashion to materials to environment.</p><br><p class="statement-text">The art I create always goes back to the vast imagination that was encouraged and cultivated since childhood. I try to keep that sense of possibility and liminality open in the art I create.</p></div>
+
+- name: Carlos Flores
+  themes:
+      - "Family / Identity / Memory"
+      - "Aesthetics / Material (labor) / Simulacra"
+      - "Culture / Identity / Community"
+  images:
+      - caption: '<div class="caption">Carlos Flores. <i>This Is Not For You</i>, 2016 / Wood, oil paint, polyurethane foam 3&#39;&nbsp;&times;&nbsp;4&#39;&nbsp;&times;&nbsp;8"</div>'
+        url: photos/flores-1.jpg
+        thumb: thumbnails/flores-1_thumb.jpg
+      - caption: '<div class="caption">Carlos Flores. Detail of work in progress, 2016 / Terracotta</div>'
+        url: photos/flores-2.jpg
+        thumb: thumbnails/flores-2_thumb.jpg
+      - caption: '<div class="caption">Carlos Flores. Detail of work in progress, 2016 / Plaster and found materials</div>'
+        url: photos/flores-3.jpg
+        thumb: thumbnails/flores-3_thumb.jpg
+      - caption: '<div class="caption">Carlos Flores. Detail of work in progress, 2016 / Oil on canvas, various textiles, cement, and other materials</div>'
+        url: photos/flores-4.jpg
+        thumb: thumbnails/flores-4_thumb.jpg
+
+  text: >
+      <div id="statement"><p class="statement-text"><i>shrimp</i></p><br><p class="statement-text">justwanttoart</p><br><p class="statement-text"><a href="mailto:carlosfloreslara@yahoo.com">carlosfloreslara@yahoo.com</a></p><br><p class="statement-text"><a href="http://www.carlflores.com" target="_blank">www.carlflores.com</a></p></div>
+
+- name: Andrew Grant
+  themes:
+      - "Science / Existentialism"
+  images:
+      - caption: '<div class="caption">Carlos Flores. <i>This Is Not For You</i>, 2016 / Wood, oil paint, polyurethane foam 3&#39;&nbsp;&times;&nbsp;4&#39;&nbsp;&times;&nbsp;8"</div>'
+        url: photos/grant-1.jpg
+        thumb: thumbnails/grant-1_thumb.jpg
+      - caption: '<div class="caption">Andrew Grant. <i>Reflection&sup2;</i>, 2016 / 3D animation video still</div>'
+        url: photos/grant-2.jpg
+        thumb: thumbnails/grant-2_thumb.jpg
+      - caption: '<div class="caption">Andrew Grant. <i>Adaptive Reuse</i>, 2015 / Stop Motion Video Still</div>'
+        url: photos/grant-3.jpg
+        thumb: thumbnails/grant-3_thumb.jpg
+      - caption: '<div class="caption">Andrew Grant. <i>Adaptive Reuse</i>, 2015 / Stop Motion Video Still</div>'
+        url: photos/grant-4.jpg
+        thumb: thumbnails/grant-4_thumb.jpg
+
+  text: >
+      <div id="statement"><div class="subtitle">Video Artist&nbsp;/ Experimental Animator</div><p class="statement-text"><i>One word to describe me is serendipity. I&#8217ve had so many happy accidents with my work it&#8217s downright fraudulent.</i><br>&mdash;Andrew Grant</p><br><p class="statement-text">My work provides whimsical interpretations of familiar experiences, focusing on the meaning and consequences of everyday unconscious actions. The ordinary world is defamiliarized into a surreal space for observing the emotions that influence impulsive actions, such as angst, fear, paranoia, anxiety, anger, greed and depression. My intention is for the audience to experience my films the way they would daydreams.</p><br><p class="statement-text">Negative emotions are usually a starting point for my practice, especially how people experience and cope with them. I study the pressures of societal standards and how they impact our distinctive behavior. I use animation to depict characters in bizarre situations, many of which are from my own experiences living in a society that pushes gender roles, promotes consumerism and racially profiles. My films do not tell a complete story with beginning, middle and end. Rather, they are more like events with a lesson to be learned. They create metaphors for my critical stance against these norms, and how I feel weighed down by them. But the drama is undercut with hijinks, and exaggeration and a sense of the ridiculous.</p><br><p class="statement-text">In their own way, my films attempt to answer the question, &#8220;What would happen if we let our impulses take over our judgment?&#8221; This idea is reflected in both the content and the process of creation. Part of my work is done rapidly, through instinct, propelled by a series of unconscious decisions, imitating the subject I am depicting. I start with a central premise, but while planning, I improvise until I get there. Animation requires a long series of choices, and I embrace all of the opportunities that each accidental and hapless moment provides; it&#8217s a way of making art that helps me conceptualize life. </p><br><p class="statement-text"><a href="https://vimeo.com/user50835912/videos" target="_blank">Vimeo</a></p></div>
+
+- name: Japheth Grimes
+  themes:
+      - "Aesthetics / Material (labor) / Simulacra"
+      - "Culture / Identity / Community"
+  images:
+      - caption: '<div class="caption">Japheth Grimes. <i>Exit Interview</i>, 2016 / Video / Running time: 2:50</div>'
+        url: photos/grimes-1.jpg
+        thumb: thumbnails/grimes-1_thumb.jpg
+      - caption: '<div class="caption">Japheth Grimes. <i>Black Friday (Megaphone)</i>, 2016 / Digital print 8.5"&nbsp;&times;&nbsp;11"</div>'
+        url: photos/grimes-2.jpg
+        thumb: thumbnails/grimes-2_thumb.jpg
+      - caption: '<div class="caption">Japheth Grimes. <i>Black Friday (Young Protester)</i>, 2016 / Digital print 8.5"&nbsp;&times;&nbsp;11"</div>'
+        url: photos/grimes-3.jpg
+        thumb: thumbnails/grimes-3_thumb.jpg
+
+  text: >
+      <div id="statement"><div class="subtitle">Artist&nbsp;/ Filmmaker&nbsp;/ Activist</div><p class="statement-text"><i>My favorite thing right now is any opportunity to say "Yeah, I guess I don't necessarily subscribe to that ideology."</i></p><br><p class="statement-text">I began my art career as a filmmaker creating clever endurance films and self-referential videos. As it became increasingly necessary to begin questioning the world around me, this sort of wit faded to the background.</p><br><p class="statement-text">I went through a phase that almost everyone around me was enduring&mdash;one of exhaustion. It was hard to distinguish if the double shifts I was working or the McDonald&#8217s I was consuming between them was tapping my energy most, but I only had to look as far as my parents to realize that this phase was permanent.</p><br><p class="statement-text">Law enforcement officers were gunning down young black males who looked like me once every two weeks. I had to consider if the cop car following me home on my skateboard had the same instincts.</p><br><p class="statement-text">I questioned why the value of a person was consistently measured by how much they contributed to the capitalistic structure. I wondered why my tuition debt was crippling me.</p><br><p class="statement-text">I began to research and uncover a system in America that ensured a bottom class through factors that made it difficult to think beyond the current day, things like busyness, malnutrition, racism and materialism. I encouraged my friends, &#8220;Break out the system!&#8221; But I was left with a difficult question to answer, "How?"</p><br><p class="statement-text">One solution I began to explore came from the realization that as capitalism increased, time for things like strengthening relationships, exploring the human spirit and cherishing existence were exchanged for extra opportunities to profit. Eventually, toil for the sake of toil became inherently virtuous, regardless of productivity.</p><br><p class="statement-text">My current art practice questions the forces that have shaped us to think this way and calls for the restoration of the original American dream&mdash;free time to achieve progress beyond the material.</p></div>
+
+- name: Erin Grupp
+  themes:
+      - "Aesthetics / Material (labor) / Simulacra"
+      - "Science / Existentialism"
+  images:
+      - caption: '<div class="caption">Erin Grupp. <i>Hellscape</i>, 2015 / Spray paint on muslin 42"&nbsp;&times;&nbsp;66"</div>'
+        url: photos/grupp-1.jpg
+        thumb: thumbnails/grupp-1_thumb.jpg
+      - caption: '<div class="caption">Erin Grupp. <i>Leash Your Demons</i>, 2016 / Spray paint and acrylic on canvas 24"&nbsp;&times;&nbsp;48"</div>'
+        url: photos/grupp-2.jpg
+        thumb: thumbnails/grupp-2_thumb.jpg
+      - caption: '<div class="caption">Erin Grupp. <i>Sandwichman</i>, 2014 / Oil on canvas 20"&nbsp;&times;&nbsp;24"</div>'
+        url: photos/grupp-3.jpg
+        thumb: thumbnails/grupp-3_thumb.jpg
+
+  text: >
+      <div id="statement"><div class="subtitle">2D &amp; 3D Artist</div><p class="statement-text">I am mesmerized by the weird, morbid, quirky, silly and awkward. With my work I reveal the overlooked, take pride in the abnormal and celebrate what most people, consciously or unconsciously, try not to see. With dark and humorous subject matter, I utilize drawing, painting and sculpture to boldly give form to subjects that are quietly strange. Sometimes I use irony and satire to connect to my audience, and other times I make art based on what most disgusts me, both viscerally and intellectually. I believe if you can find a way to laugh at or claim the unspeakably horrible, you rob it of its power. By focusing on weird, dark aspects of humanity, I conquer my fear.</p></div>
+
+- name: J. Tshab Her
+  themes:
+      - "Family / Identity / Memory"
+      - "Aesthetics / Material (labor) / Simulacra"
+      - "Culture / Identity / Community"
+  images:
+      - caption: '<div class="caption">J. Tshab Her. <i>Reclaiming Existence</i>, 2016 / Acrylic, india ink and wall paint 6.5"&nbsp;&times;&nbsp;572.5"</div>'
+        url: photos/her-1.jpg
+        thumb: thumbnails/her-1_thumb.jpg
+      - caption: '<div class="caption">J. Tshab Her. <i>Reclaiming Existence</i>, 2016 / Acrylic, india ink and wall paint 6.5"&nbsp;&times;&nbsp;572.5"</div>'
+        url: photos/her-2.jpg
+        thumb: thumbnails/her-2_thumb.jpg
+      - caption: '<div class="caption">J. Tshab Her. <i>NaMom TxivDad</i>, 2015 / Thread and embroidery floss on fabric 16"&nbsp;&times;&nbsp;16"&nbsp;&times;&nbsp;4.5"</div>'
+        url: photos/her-3.jpg
+        thumb: thumbnails/her-3_thumb.jpg
+      - caption: '<div class="caption">J. Tshab Her. <i>NaMom TxivDad</i>, 2015 / Thread and embroidery floss on fabric 16"&nbsp;&times;&nbsp;16"&nbsp;&times;&nbsp;4.5"</div>'
+        url: photos/her-4.jpg
+        thumb: thumbnails/her-4_thumb.jpg
+      - caption: '<div class="caption">J. Tshab Her. <i>Nam Hab Kuv (Mom and Me)</i>, 2015 / Fabric, simp belting and wood 35.5"&nbsp;&times;&nbsp;26.25"</div>'
+        url: photos/her-5.jpg
+        thumb: thumbnails/her-5_thumb.jpg
+      - caption: '<div class="caption">J. Tshab Her. <i>A Flag for the Hmong</i>, 2016 / Performance and sculpture (Fabric, grommet, carabiner, and wood) Representing the Hmong at the Trump Rally Protest in Chicago&ndash;May 11, 2016</div>'
+        url: photos/her-6.jpg
+        thumb: thumbnails/her-6_thumb.jpg
+
+  text: >
+      <div id="statement"><div class="subtitle">Artist</div><p class="statement-text">My work demonstrates and complicates the politics of displacement through my experience as a first generation Hmong-American. As an ethnic minority from Southeast Asia with no homeland, I have a desire to be heard and to be valued. I fear cultural extinction, so I create work that reveals the diaspora of the Hmong, questioning the roles of site and place, and instead looking in-between. I emphasize ephemerality as part of identity. This work is part of the larger question of what it means to belong, and how I join the conversation about the history of political refugeeism in America.</p><br><p class="statement-text">My work engages political and cultural space through installation, site specificity and social practice. With a background in painting, I use color as a dialogue&mdash;a tool for bringing attention to space, claiming space and recognizing how spaces are claimed. Hmong textile is vital in my work. It presents a call to the body, and serves as a surrogate for the Hmong body. I interpret the question of ownership, whether land or body, through the use of material placement and color mixtures. Art is a form that allows me to position my body and other bodies in relation to the Hmong diaspora, and to investigate the nuanced spaces between visibility and invisibility.</p><br><p class="statement-text"><a href="http://www.tshabher.com" target="_blank">www.tshabher.com</a></p></div>
+
+- name: Laura Horan
+  themes:
+      - "Family / Identity / Memory"
+      - "Aesthetics / Material (labor) / Simulacra"
+      - "Culture / Identity / Community"
+  images:
+      - caption: '<div class="caption">Laura Horan. <i>Prints I</i>, 2015 / Fish and ink on canvas / Dimensions Variable</div>'
+        url: photos/horan-1.jpg
+        thumb: thumbnails/horan-1_thumb.jpg
+      - caption: '<div class="caption">Laura Horan. <i>Prints I</i>, 2015 / Fish and ink on canvas / Dimensions Variable</div>'
+        url: photos/horan-2.jpg
+        thumb: thumbnails/horan-2_thumb.jpg
+      - caption: '<div class="caption">Laura Horan. <i>Prints I</i>, 2015 / Fish and ink on canvas / Dimensions Variable</div>'
+        url: photos/horan-3.jpg
+        thumb: thumbnails/horan-3_thumb.jpg
+      - caption: '<div class="caption">Laura Horan. <i>Flesh</i>, 2015 / Digital Print 8.5"&nbsp;&times;&nbsp;11"</div>'
+        url: photos/horan-4.jpg
+        thumb: thumbnails/horan-4_thumb.jpg
+      - caption: '<div class="caption">Laura Horan. <i>Documentations</i>, 2015 / Digital Print 4"&nbsp;&times;&nbsp;6"</div>'
+        url: photos/horan-5.jpg
+        thumb: thumbnails/horan-5_thumb.jpg
+      - caption: '<div class="caption">Laura Horan. <i>Skins</i>, 2016 / Fish skin and thread / Dimensions Variable</div>'
+        url: photos/horan-6.jpg
+        thumb: thumbnails/horan-6_thumb.jpg
+      - caption: '<div class="caption">Laura Horan. <i>Stress</i>, 2016 / Crab shells and acrylic paint / Dimensions Variable</div>'
+        url: photos/horan-7.jpg
+        thumb: thumbnails/horan-7_thumb.jpg
+
+  text: >
+      <div id="statement"><div class="subtitle">I make fish art just for the halibut.</div><p class="statement-text">I make art out of dead fish, particularly parts that would otherwise be discarded. One of my main goals is to preserve these parts, putting them in a limbo where they are not allowed to decompose naturally. I question what is considered &#8220;beautiful,&#8221; particularly in terms of mortality.</p><br><p class="statement-text">I concern myself with the posthumous life span of a preserved object. While I can slow the decomposition of the fish, I cannot stop it from happening. I enjoy that moment in which nature wins out over my efforts.</p><br><p class="statement-text">If I return to college, I&#8217d go into the sciences. I want to work in the field of wildlife ecology. As for art, I plan on continuing my practice regardless of what my livelihood happens to be.</p></div>
+
+- name: Joe Horejs
+  themes:
+      - "Aesthetics / Material (labor) / Simulacra"
+  images:
+      - caption: '<div class="caption">Joe Horejs. <i>Photography Performance</i>, 2016 / Performance / Running time: 8:22</div>'
+        url: photos/horejs-1.jpg
+        thumb: thumbnails/horejs-1_thumb.jpg
+      - caption: '<div class="caption">Joe Horejs. <i>Subject 1 and 2</i>, 2016 / Graphite on paper, drywall 34"&nbsp;&times;&nbsp;27"</div>'
+        url: photos/horejs-2.jpg
+        thumb: thumbnails/horejs-2_thumb.jpg
+      - caption: '<div class="caption">Joe Horejs. <i>Robot Ejaculation</i>, 2016 / Sound performance installation / Running time: 4:22</div>'
+        url: photos/horejs-3.jpg
+        thumb: thumbnails/horejs-3_thumb.jpg
+
+  text: >
+      <div id="statement"><p class="statement-text">My goal with any work of art is to impose a trauma on the viewer&mdash;I want the viewer to have an experience with art that lingers&mdash;From a banal plastic bag to a live performance of photographing an overweight naked man, to hiring a forensic sketch artist, to a dominatrix inflicting pain on subjects, I like to create uncanny situations in order to produce the authenticity of the moment. In consideration on how viewers experience my art has changed my work from hanging a photograph on the wall, to photographic sculptures, to a live performance of photography.</p><br><p class="statement-text">I am trying to produce a heightened consciousness with my audience in their relationship to images because I feel like the world is oversaturated. My mother calls her photo albums her memories, and I&#8217;m worried if her memories exist as pictures, and if the television and Internet and Wal-Mart are pumping more and more images into American culture, is it becoming harder to decipher authentic experience?</p></div>
+
+- name: Stephanie Kuzyk
+  themes:
+      - "Surveillance / Technology / Communication"
+      - "Culture / Identity / Community"
+  images:
+      - caption: '<div class="caption">Stephanie Kuzyk. <i>Long Distance Relationship</i>, 2015 / Digital print 22"&nbsp;&times;&nbsp;22"</div>'
+        url: photos/kuzyk-1.jpg
+        thumb: thumbnails/kuzyk-1_thumb.jpg
+      - caption: '<div class="caption">Stephanie Kuzyk. <i>Dinner with Friends</i>, 2016 / Digital print 22"&nbsp;&times;&nbsp;22"</div>'
+        url: photos/kuzyk-2.jpg
+        thumb: thumbnails/kuzyk-2_thumb.jpg
+      - caption: '<div class="caption">Stephanie Kuzyk. <i>It’s Been Done Before</i>, 2015 / Interactive GIF 516&nbsp;&times;&nbsp;385 px</div>'
+        url: photos/kuzyk-3.gif
+        thumb: thumbnails/kuzyk-3_thumb.gif
+      - caption: '<div class="caption">Stephanie Kuzyk. <i>Vintage Ad #1</i>, 2016 / Digital collage 22"&nbsp;&times;&nbsp;29"</div>'
+        url: photos/kuzyk-4.jpg
+        thumb: thumbnails/kuzyk-4_thumb.jpg
+      - caption: '<div class="caption">Stephanie Kuzyk. <i>You Have a Notification #2</i>, 2016 / Digital print mounted on wood blocks 3"&nbsp;&times;&nbsp;5"</div>'
+        url: photos/kuzyk-5.jpg
+        thumb: thumbnails/kuzyk-5_thumb.jpg
+        
+
+  text: >
+      <div id="statement"><div class="subtitle">Photographer&nbsp;/ New Media Artist</div><p class="statement-text">There&#8217;s been a shift in the way we communicate with one another, primarily due to the emergence of different communication technologies. We text, we snap, we tweet. We&#8217;re so used to communicating in these ways that we&#8217;ve become comfortable with the sensory deprivation that comes from communicating through a phone or computer.</p><br><p class="statement-text">Through my photographs and new media work, I invite my viewers to feel, touch and experience. I don&#8217;t want a sterile viewing of my works framed on a wall; I don&#8217;t want to add another filter to the intimacy deprivation we already experience. I choose to work in depth with different technologies because if I can make my audience feel what I feel when I&#8217;m making my work, then maybe there&#8217;s a way to translate that back into the technologies we use everyday. I don&#8217;t reject technology; I reject our blind acceptance of the way we use it to communicate.</p><br><p class="statement-text">Through my photographs and new media work, I invite my viewers to feel, touch and experience. I don&#8217;t want a sterile viewing of my works framed on a wall; I don&#8217;t want to add another filter to the intimacy deprivation we already experience. I choose to work in depth with different technologies because if I can make my audience feel what I feel when I&#8217;m making my work, then maybe there&#8217;s a way to translate that back into the technologies we use everyday. I don&#8217;t reject technology; I reject our blind acceptance of the way we use it to communicate.</p><br><p class="statement-text">For the future, I&#8217;m not entirely sure where life will take me, but I feel like that&#8217;s half the fun. I do plan to stay local to Chicago for the immediate future, and continue to make work. Hopefully I&#8217;ll make it into a few shows, but nothing&#8217;s for certain! I just want to bask in the freedom of being an artist loose in Chicago.</p></div>
+
+- name: Katie Morrison
+  themes:
+      - "Family / Identity / Memory"
+      - "Surveillance / Technology / Communication"
+      - "Culture / Identity / Community"
+  images:
+      - caption: '<div class="caption">Katie Morrison. <i>Self Exploration in Darkness</i>, 2016 / Digital print 40"&nbsp;&times;&nbsp;75"</div>'
+        url: photos/morrison-1.jpg
+        thumb: thumbnails/morrison-1_thumb.jpg
+      - caption: '<div class="caption">Katie Morrison. <i>Prognosis</i>, 2016 / Oil on canvas 47"&nbsp;&times;&nbsp;47"</div>'
+        url: photos/morrison-2.jpg
+        thumb: thumbnails/morrison-2_thumb.jpg
+      - caption: '<div class="caption">Katie Morrison. <i>Coronary Arteriole, 3.1mm 12/01/2015 11:17:05 PM</i>, 2015 / Watercolor on glass slide and microscope 13.75"&nbsp;&times;&nbsp;7"&nbsp;&times;&nbsp;5.5"</div>'
+        url: photos/morrison-3.jpg
+        thumb: thumbnails/morrison-3_thumb.jpg
+      - caption: '<div class="caption">Katie Morrison. <i>Watching the Unconscious No. 10</i>, 2016 / Oil on cardboard 8"&nbsp;&times;&nbsp;8.5"</div>'
+        url: photos/morrison-4.jpg
+        thumb: thumbnails/morrison-4_thumb.jpg
+      - caption: '<div class="caption">Katie Morrison. <i>Watching the Unconscious No. 2</i>, 2016 / Oil on canvas 8.5"&nbsp;&times;&nbsp;11"</div>'
+        url: photos/morrison-5.jpg
+        thumb: thumbnails/morrison-5_thumb.jpg
+      - caption: '<div class="caption">Katie Morrison. <i>His, 2016 / Digital print 42"&nbsp;&times;&nbsp;40"</div>'
+        url: photos/morrison-6.jpg
+        thumb: thumbnails/morrison-6_thumb.jpg
+      - caption: '<div class="caption">Katie Morrison. <i>Untitled (Letter From My Baby Sister)</i>, 2016 / Found letter circa 2010 / 8.5"&nbsp;&times;&nbsp;11" &#91;2 sheets&#93;</div>'
+        url: photos/morrison-7.jpg
+        thumb: thumbnails/morrison-7_thumb.jpg
+
+  text: >
+      <div id="statement"><p class="statement-text">Vulnerability Within the Home</p><br><p class="statement-text">The body is self-aware, pulsing matter. Through the lenses of darkness, vulnerability and surveillance, my work is a self-searching process that pans across the dynamics of my family. Whether these attributes result in specific memories, daily rituals or valuable belongings, each aspect of my artwork reflects on the relationship I have to both my self and my family. I am interested in the moment trust becomes threatening, and the consequences of giving public form to private actions. Seeing the home as a sanctuary for the deepest forms of intimacy, my work traces the ethical line between bodies in domestic spaces. I work without consent and make a spectacle of the unconscious body while exploiting vulnerability in the familial home.</p><br><p class="statement-text">Influenced by abstraction, conceptual art and performance, I am deliberate in the modes and conditions of creation for each piece, whether painting in durations of darkness, photographing myself for public display or presenting found objects. Through this growing collection of material, I construct and betray my identity through my family and by the manifested conditions in which I portray us. As I claim myself through these interactions and interventions, my portfolio illustrates our susceptibility in domestic spaces and destabilizes the trust we place in our families as their impact shapes what we become.</p></div>
+
+- name: Alex Myung
+  themes:
+      - "Culture / Identity / Community"
+  images:
+      - caption: '<div class="caption">Alex Myung. <i>CHICAGO UNPLUGGED</i>, 2016 / Web Series Season One: 8 episodes / Running time per episode: 2&ndash;3 minutes</div>'
+        url: photos/myung-1.jpg
+        thumb: thumbnails/myung-1_thumb.jpg
+      - caption: '<div class="caption">Alex Myung. <i>REWIND play</i>, 2016 / Film / Running time: 7:45 / Poem by Fatimah Asghar</div>'
+        url: photos/myung-2.jpg
+        thumb: thumbnails/myung-2_thumb.jpg
+
+  text: >
+      <div id="statement"><p class="statement-text">My art focuses on the intersections within social movements, showcasing their never-ending progression. I have worked to document the hip-hop movement that provided me and many young and old people of color a global political platform to represent and express our culture, politics and ideas. Because hip-hip is often criticized for violence that stems from systemic inequality, it was important for me to document how hip-hop is used to fight systemic oppression, and to archive the depth and complexity of music that falls under this label. My web series CHICAGO UNPLUGGED gives the audience a glimpse of how this music serves the fight for freedom. Representation matters; it is important to denounce Eurocentric and misogynistic narratives and create art that represents people in all communities. In documenting my journey of meeting amazing people throughout the city of Chicago, I hope to create art that shows how unity can co-exist within diversity.</p></div>
+
+- name: Diego Padilla
+  themes:
+      - "Aesthetics / Material (labor) / Simulacra"
+  images:
+      - caption: '<div class="caption">Diego Padilla. <i>Untitled (Film Holder)</i>, 2016 / Inkjet print 11"&nbsp;&times;&nbsp;17"</div>'
+        url: photos/padilla-1.jpg
+        thumb: thumbnails/padilla-1_thumb.jpg
+      - caption: '<div class="caption">Diego Padilla. <i>Untitled (Film Holder)</i>, 2016 / Inkjet print 11"&nbsp;&times;&nbsp;17"</div>'
+        url: photos/padilla-2.jpg
+        thumb: thumbnails/padilla-2_thumb.jpg
+      - caption: '<div class="caption">Diego Padilla. <i>Untitled (Negative Holder)</i>, 2016 / Inkjet print 11"&nbsp;&times;&nbsp;17"</div>'
+        url: photos/padilla-3.jpg
+        thumb: thumbnails/padilla-3_thumb.jpg
+
+  text: >
+      <div id="statement"><div class="subtitle">Artist&nbsp;/ Photographer</div><p class="statement-text">I study the way a body inhabits space and experiences the world through a photographic lens. I draw upon my own physicality and philosophical interests, like phenomenology, to address the limits of representing those experiences. The camera is a tool that allows me to give form to abstract ideas, such as our physical senses, and interpret my subjectivity.</p><br><p class="statement-text">We live in an increasingly visual and technological world. More people have direct access to cameras therefore shifting the cultural landscape. How does a photographer react to these conditions? How can images function in the culture? In this environment, how can images change perception? Do images hold value individually or in relation to other images? I question what it means to be a photographer. I subvert received ideas about the photograph, such as the idea of the photograph as truth, or even the convention of using a camera. I invite the viewer to think about their body in relation to the photographic image. I use direct and indirect photographic processes, like the scanner and photocopier, to play with ideas of the production, definition, and representation of the photographic image. By bridging ideas about image culture and corporality, I push the limits of the photograph to take the viewer on a visceral journey.</p><br><p class="statement-text"><a href="mailto:diegopadilla280@gmail.com">diegopadilla280@gmail.com</a></p></div>
+
+- name: Eric Rylo
+  themes:
+      - "Aesthetics / Material (labor) / Simulacra"
+  images:
+      - caption: '<div class="caption">Eric Rylo. <i>The Floor is Lava</i>, 2015 / Found object, house paint, plywood 16&#39;&nbsp;&times;&nbsp;16&#39;&nbsp;&times;&nbsp;10&#39;</div>'
+        url: photos/rylo-1_a.jpg
+        thumb: thumbnails/rylo-1_a_thumb.jpg
+      - caption: '<div class="caption">Eric Rylo. <i>The Floor is Lava</i>, 2015 / Found object, house paint, plywood 16&#39;&nbsp;&times;&nbsp;16&#39;&nbsp;&times;&nbsp;10&#39;</div>'
+        url: photos/rylo-1_b.jpg
+        thumb: thumbnails/rylo-1_b_thumb.jpg
+      - caption: '<div class="caption">Eric Rylo. <i>The Floor is Lava</i>, 2015 / Found object, house paint, plywood 16&#39;&nbsp;&times;&nbsp;16&#39;&nbsp;&times;&nbsp;10&#39;</div>'
+        url: photos/rylo-1_c.jpg
+        thumb: thumbnails/rylo-1_c_thumb.jpg
+      - caption: '<div class="caption">Eric Rylo. <i>The Floor is Lava</i>, 2015 / Found object, house paint, plywood 16&#39;&nbsp;&times;&nbsp;16&#39;&nbsp;&times;&nbsp;10&#39;</div>'
+        url: photos/rylo-1_d.jpg
+        thumb: thumbnails/rylo-1_d_thumb.jpg
+      - caption: '<div class="caption">Eric Rylo. <i>The Floor is Lava</i>, 2015 / Found object, house paint, plywood 16&#39;&nbsp;&times;&nbsp;16&#39;&nbsp;&times;&nbsp;10&#39;</div>'
+        url: photos/rylo-1_e.jpg
+        thumb: thumbnails/rylo-1_e_thumb.jpg
+      - caption: '<div class="caption">Eric Rylo. <i>Sitting on the Dock of the Bay</i>, 2015 / House paint on particle board 4&#39;x 8&#39;</div>'
+        url: photos/rylo-2_a.jpg
+        thumb: thumbnails/rylo-2_a_thumb.jpg
+      - caption: '<div class="caption">Eric Rylo. <i>Sitting on the Dock of the Bay</i>, 2015 / House paint on particle board 4&#39;x 8&#39;</div>'
+        url: photos/rylo-2_b.jpg
+        thumb: thumbnails/rylo-2_b_thumb.jpg
+      - caption: '<div class="caption">Eric Rylo. <i>Life Cycles, 2016 / Plaster cast of television, video projection 3:02 min loop 2&#39; 10"&nbsp;&times;&nbsp;2&#39; 3"&nbsp;&times;&nbsp;2&#39; 7"</div>'
+        url: photos/rylo-3_a.jpg
+        thumb: thumbnails/rylo-3_a_thumb.jpg
+      - caption: '<div class="caption">Eric Rylo. <i>Life Cycles, 2016 / Plaster cast of television, video projection 3:02 min loop 2&#39; 10"&nbsp;&times;&nbsp;2&#39; 3"&nbsp;&times;&nbsp;2&#39; 7"</div>'
+        url: photos/rylo-3_b.jpg
+        thumb: thumbnails/rylo-3_b_thumb.jpg
+      - caption: '<div class="caption">Eric Rylo. <i>Emitting Frequencies</i>, 2016 / House paint, televisions parts, on particle board Two 4&#39;&nbsp;&times;&nbsp;8&#39; panels</div>'
+        url: photos/rylo-4_a.jpg
+        thumb: thumbnails/rylo-4_a_thumb.jpg
+      - caption: '<div class="caption">Eric Rylo. <i>Emitting Frequencies</i>, 2016 / House paint, televisions parts, on particle board Two 4&#39;&nbsp;&times;&nbsp;8&#39; panels</div>'
+        url: photos/rylo-4_b.jpg
+        thumb: thumbnails/rylo-4_b_thumb.jpg
+      - caption: '<div class="caption">Eric Rylo. <i>Emitting Frequencies</i>, 2016 / House paint, televisions parts, on particle board Two 4&#39;&nbsp;&times;&nbsp;8&#39; panels</div>'
+        url: photos/rylo-4_c.jpg
+        thumb: thumbnails/rylo-4_c_thumb.jpg
+
+  text: >
+      <div id="statement"><div class="subtitle">Artist&nbsp;/ Craftsman&nbsp;/ Innovator&nbsp;/ Adventurer&nbsp;/ Mad Scientist&nbsp;/ Good Guy</div><p class="statement-text">Consumerism has produced a decline in spiritualism. Reality and nature are now secondary to media. Americans are glued to their phones, locked to their couches and lost in the Internet. Our television programming is exactly that, programming: how to dress, where to eat and how to interact. Corporate ubiquity is draining any historical specificity out of our culture; it is becoming the responsibility of the individual to be an individual. I am taking this opportunity&mdash;art&mdash;to exploit this conformity, state my individuality and establish a material cultural bank. TV, radio, print media and the Internet all provide inspiration for this ongoing project.</p><br><p class="statement-text">In <i>Life Cycles</i>, the plaster television immortalizes the already outdated tube TV. Projected on the plaster is video of myself in a green-screen-suit. I spin in circles until I can&#8217;t stand; my movement reveals a video of water circling a river, and a video of my commute from home to school is layered behind my body. It&#8217;s a composite of life cycles, organic and made-man, liberating and trapping.</p><br><p class="statement-text">Being outdoors, away from immediate societal pressures, is where I go to experience a un-advertised-to life, and establish cycles and routines that come from my own needs and interests. In the woods, the spinning stops.</p><br><p class="statement-text">My art practice serves the same function. Balanced chaos and planned intuition allow for an analysis and reformation of the set structures and cycles coiling around us.</p></div>
+
+- name: Maria Sano
+  themes:
+      - "Science / Existentialism"
+  images:
+      - caption: '<div class="caption">Maria Sano. <i>Disturbia: The Dark Side of a Good Suburban Neighborhood</i>, 2016 / Digital 3456&nbsp;&times;&nbsp;5184 px</div>'
+        url: photos/sano-1.jpg
+        thumb: thumbnails/sano-1_thumb.jpg
+      - caption: '<div class="caption">Maria Sano. <i>Disturbia: The Dark Side of a Good Suburban Neighborhood</i>, 2016 / Digital 3140&nbsp;&times;&nbsp;5184 px</div>'
+        url: photos/sano-2.jpg
+        thumb: thumbnails/sano-2_thumb.jpg
+      - caption: '<div class="caption">Maria Sano. <i>Restroom</i>, 2016 / Digital 3456&nbsp;&times;&nbsp;5184 px</div>'
+        url: photos/sano-3.jpg
+        thumb: thumbnails/sano-3_thumb.jpg
+      - caption: '<div class="caption">Maria Sano. <i>Take</i>, 2016 / Digital 3456&nbsp;&times;&nbsp;5184 px</div>'
+        url: photos/sano-4.jpg
+        thumb: thumbnails/sano-4_thumb.jpg
+
+  text: >
+      <div id="statement"><div class="subtitle">Artist&nbsp;/ Craftsman&nbsp;/ Innovator&nbsp;/ Adventurer&nbsp;/ Mad Scientist&nbsp;/ Good Guy</div><p class="statement-text">Consumerism has produced a decline in spiritualism. Reality and nature are now secondary to media. Americans are glued to their phones, locked to their couches and lost in the Internet. Our television programming is exactly that, programming: how to dress, where to eat and how to interact. Corporate ubiquity is draining any historical specificity out of our culture; it is becoming the responsibility of the individual to be an individual. I am taking this opportunity&mdash;art&mdash;to exploit this conformity, state my individuality and establish a material cultural bank. TV, radio, print media and the Internet all provide inspiration for this ongoing project.</p><br><p class="statement-text">In <i>Life Cycles</i>, the plaster television immortalizes the already outdated tube TV. Projected on the plaster is video of myself in a green-screen-suit. I spin in circles until I can&#8217;t stand; my movement reveals a video of water circling a river, and a video of my commute from home to school is layered behind my body. It&#8217;s a composite of life cycles, organic and made-man, liberating and trapping.</p><br><p class="statement-text">Being outdoors, away from immediate societal pressures, is where I go to experience a un-advertised-to life, and establish cycles and routines that come from my own needs and interests. In the woods, the spinning stops.</p><br><p class="statement-text">My art practice serves the same function. Balanced chaos and planned intuition allow for an analysis and reformation of the set structures and cycles coiling around us.</p></div>
+
+- name: Stephen Santiago
+  themes:
+      - "Family / Identity / Memory"
+      - "Culture / Identity / Community"
+  images:
+      - caption: '<div class="caption">Stephen Santiago. <i>Coach</i>, 2015 / Running time: 3:28 <a href="https://vimeo.com/107996733" target="_blank">Watch</a></div>'
+        url: photos/santiago-1.jpg
+        thumb: thumbnails/santiago-1_thumb.jpg
+      - caption: '<div class="caption">Stephen Santiago. <i>Half-Hearted Motivation</i>, 2016 / Running time: 12:35</div>'
+        url: photos/santiago-2.jpg
+        thumb: thumbnails/santiago-2_thumb.jpg
+      - caption: '<div class="caption">Stephen Santiago. <i>41° 52.957&#39; &ndash;87° 37.398&#39;, 2014 / Running time: 8:24 <a href="https://vimeo.com/81444721" target="_blank">Watch</a></div>'
+        url: photos/santiago-3.jpg
+        thumb: thumbnails/santiago-3_thumb.jpg
+      - caption: '<div class="caption">Stephen Santiago. <i>Untitled</i>, 2016 / Digital inkjet print 24"&nbsp;&times;&nbsp;16"</div>'
+        url: photos/santiago-4.jpg
+        thumb: thumbnails/santiago-4_thumb.jpg
+      - caption: '<div class="caption">Stephen Santiago. <i>Untitled</i>, 2016 / Digital inkjet print 24"&nbsp;&times;&nbsp;16"</div>'
+        url: photos/santiago-5.jpg
+        thumb: thumbnails/santiago-5_thumb.jpg
+      - caption: '<div class="caption">Stephen Santiago. <i>Untitled</i>, 2016 / Digital inkjet print 24"&nbsp;&times;&nbsp;16"</div>'
+        url: photos/santiago-6.jpg
+        thumb: thumbnails/santiago-6_thumb.jpg
+      - caption: '<div class="caption">Stephen Santiago. <i>Untitled</i>, 2015 / Digital inkjet print 24"&nbsp;&times;&nbsp;16"</div>'
+        url: photos/santiago-7.jpg
+        thumb: thumbnails/santiago-7_thumb.jpg
+      - caption: '<div class="caption">Stephen Santiago. <i>Untitled</i>, 2015 / Digital inkjet print 8"&nbsp;&times;&nbsp;10"</div>'
+        url: photos/santiago-8.jpg
+        thumb: thumbnails/santiago-8_thumb.jpg
+      - caption: '<div class="caption">Stephen Santiago. <i>Untitled</i>, 2016 / Digital inkjet print 4"&nbsp;&times;&nbsp;6"</div>'
+        url: photos/santiago-9.jpg
+        thumb: thumbnails/santiago-9_thumb.jpg
+      - caption: '<div class="caption">Stephen Santiago. <i>Untitled</i>, 2016 / Digital inkjet print 8"&nbsp;&times;&nbsp;10"</div>'
+        url: photos/santiago-10.jpg
+        thumb: thumbnails/santiago-10_thumb.jpg
+      - caption: '<div class="caption">Stephen Santiago. <i>Untitled</i>, 2016 / Digital inkjet print 8"&nbsp;&times;&nbsp;10"</div>'
+        url: photos/santiago-11.jpg
+        thumb: thumbnails/santiago-11_thumb.jpg
+      - caption: '<div class="caption">Stephen Santiago. <i>Untitled</i>, 2016 / Digital inkjet print 24"&nbsp;&times;&nbsp;16"</div>'
+        url: photos/santiago-12.jpg
+        thumb: thumbnails/santiago-12_thumb.jpg
+      - caption: '<div class="caption">Stephen Santiago. <i>Untitled</i>, 2016 / Digital inkjet print 8"&nbsp;&times;&nbsp;10"</div>'
+        url: photos/santiago-13.jpg
+        thumb: thumbnails/santiago-13_thumb.jpg
+      - caption: '<div class="caption">Stephen Santiago. <i>Untitled</i>, 2016 / Digital inkjet print 24"&nbsp;&times;&nbsp;16"</div>'
+        url: photos/santiago-14.jpg
+        thumb: thumbnails/santiago-14_thumb.jpg
+      - caption: '<div class="caption">Stephen Santiago. <i>Still There</i>, 2016 / Screenplay</div>'
+        url: photos/santiago-15.jpg
+        thumb: thumbnails/santiago-15_thumb.jpg
+
+  text: >
+      <div id="statement"><div class="subtitle">Artist&nbsp;/ Filmmaker&nbsp;/ Photographer</div><p class="statement-text"><i>When I discover who I am, I&#8217;ll be free.</i><br>&mdash;Ralph Ellison</p><br><p class="statement-text">We&#8217;ll all be different people in ten years. The self is a moving target.</p><br><p class="statement-text">I&#8217;d like to believe everyone has a set identity or core being, where their personality and values remain the same as they get older and experience new things.</p><br><p class="statement-text">But research suggests the idea of the self is a delusion, fueled by an endless inner monologue that features us as the main character. Instead of a having a unique self, we may just be reacting to a web of sensations and impulses.</p><br><p class="statement-text">I&#8217;m interested in how people become trapped in these processes, and how they get out of them. My work investigates/represents people in a state of self-reflection and searching, who yearning to make sense of everything.</p><br><p class="statement-text">Therefore, my thematic interests include finding your place in the world, memory and obsession, second-guessing yourself, and the &#8220;quarter-life crisis.&#8221;</p><br><p class="statement-text">Figuring yourself out as a person is a universal process we all battle with in different ways. I use my camera to remind audiences that we&#8217;re not alone in the struggle.</p><br><p class="statement-text"><a href="mailto:stephen.a.santiago@gmail.com">stephen.a.santiago@gmail.com</a></p><br><p class="statement-text"><a href="https://vimeo.com/stephenastephen" target="_blank">Vimeo</a></p><br><p class="statement-text"><a href="https://www.instagram.com/hi_fi_video/" target="_blank">Instagram</a></p></div>
+
+- name: Dan Schumm
+  themes:
+      - "Aesthetics / Material (labor) / Simulacra"
+  images:
+      - caption: '<div class="caption">Dan Schumm. <i>Untitled (Sketches 1)</i>, 2016 / Graphite, digital scan</div>'
+        url: photos/schumm-1.jpg
+        thumb: thumbnails/schumm-1_thumb.jpg
+      - caption: '<div class="caption">Dan Schumm. <i>Untitled (Sketches 2)</i>, 2016 / Graphite, digital scan</div>'
+        url: photos/schumm-2.jpg
+        thumb: thumbnails/schumm-2_thumb.jpg
+      - caption: '<div class="caption">Dan Schumm. <i>Untitled (Sketches 3)</i>, 2016 / Ink, digital scan</div>'
+        url: photos/schumm-3.jpg
+        thumb: thumbnails/schumm-3_thumb.jpg
+      - caption: '<div class="caption">Dan Schumm. <i>Untitled (Proof of Concept Video)</i>, 2016 / Digital video <a href="https://vimeo.com/162300367" target="_blank">Watch</a></div>'
+        url: photos/schumm-4.jpg
+        thumb: thumbnails/schumm-4_thumb.jpg
+
+  text: >
+      <div id="statement"><div class="subtitle">Illustrator&nbsp;/ Film&nbsp;/ Video</div><p class="statement-text"><i>Name the greatest of all inventors. Accident.</i><br>&mdash;Mark Twain</p><br></p><br><p class="statement-text">I am a compulsive artist; my art is the product of thought&mdash;&#8220;explosions&#8221;&mdash;that occur at any given moment. My works are never deliberative, but improvisational, spontaneous and reactive. My thesis project throughout the year has been introspective and meditative, examining my thought processes and work patterns, and seeing how they take form in my drawing. These processes are also important in my self-efficacy, and permit me to examine emotions, fears and ideas that I am unable to articulate verbally.</p><br><p class="statement-text">In addition to illustration and drawing, I work in animation and moving image. I often propose ideas about the medium, and how it relates to drawing, and then conduct experiments which I name &#8220;proofs of concept.&#8221; For example, I am testing ways video can take on multiple perspectives in the same image.</p><br><p class="statement-text">My art practice will continue to grow as I create more and more proposals about the world that I wish to test. I would like further my art education and pursue a Masters in Art Therapy. I will continue in drawing, and work more in animation. As a career, I hope to be a cartoonist or live illustrator.</p><br><p class="statement-text"><a href="mailto:drschumm@comcast.net">drschumm@comcast.net</a></p><br><p class="statement-text"><a href="http://daniel-schumm.squarespace.com" target="_blank">daniel-schumm.squarespace.com</a></p></div>
+
+- name: Sydney Shavers
+  themes:
+      - "Family / Identity / Memory"
+      - "Culture / Identity / Community"
+  images:
+      - caption: '<div class="caption">Sydney Shavers. <i>ba.nana</i>, 2016 / Digital print 36"&nbsp;&times;&nbsp;24"</div>'
+        url: photos/shavers-1.jpg
+        thumb: thumbnails/shavers-1_thumb.jpg
+      - caption: '<div class="caption">Sydney Shavers. <i>Misty Stone</i>, 2016 / Digital print collage</div>'
+        url: photos/shavers-2.jpg
+        thumb: thumbnails/shavers-2_thumb.jpg
+      - caption: '<div class="caption">Sydney Shavers. Video stills from <i>I’m A Slave For You Karaoke</i>, 2015 / Running time: 3:34</div>'
+        url: photos/shavers-3.jpg
+        thumb: thumbnails/shavers-3_thumb.jpg
+
+  text: >
+      <div id="statement"><p class="statement-text">As a black woman, I experience the marginalization of both my gender and race, the two spaces for existence into which I was born. I am in a constant battle between pursuing my interests and falling into positions that were predetermined for me. The idea of the double-consciousness is forever present in my world.</p><br><p class="statement-text">I form questions about the positions given to marginalized bodies in a racist and patriarchal society and the importance of this relationship in identity formation. I examine the roles in which people of color and women are allowed recognition in society and use visual language to inquire into the limits of this reality, both publicly and privately. Through art, I provide the possibility that bodies can gain autonomy and reside in a scope outside of cultural expectations.</p><br><p class="statement-text">My visual works analyze societal structures and the restrictions of gender and color. I seize the language of pop lyrics to undermine common cultural symbols and assert a new identity. I use pornographic images as source material, and through repetition, transform them into works that invite the viewer to reinterpret them, questioning their own assumptions. My goal is to appropriate images that contain Western cultural symbolism and juxtapose them with a myriad of media influences in order to challenge what is known about our sign systems. I seek a new vocabulary separate from that of hegemonic society.</p><br><p class="statement-text"><a href="mailto:sydneylshavers@gmail.com">sydneylshavers@gmail.com</a></p></div>
+
+- name: Meghan Treptow
+  themes:
+      - "Surveillance / Technology / Communication"
+  images:
+      - caption: '<div class="caption">Meghan Treptow. <i>What We In The Business Call Transference</i>, 2015 / Animated GIF 702&nbsp;&times;&nbsp;1248 px</div>'
+        url: photos/treptow-1.gif
+        thumb: thumbnails/treptow-1_thumb.gif
+      - caption: '<div class="caption">Meghan Treptow. <i>Goals</i>, 2015 / Animated GIF 968&nbsp;&times;&nbsp;1291 px</div>'
+        url: photos/treptow-2.gif
+        thumb: thumbnails/treptow-2_thumb.gif
+      - caption: '<div class="caption">Meghan Treptow. <i>Elseyes</i>, 2015 / Animated GIF, dry erase marker 930&nbsp;&times;&nbsp;764 px</div>'
+        url: photos/treptow-3.gif
+        thumb: thumbnails/treptow-3_thumb.gif
+      - caption: '<div class="caption">Meghan Treptow. <i>Swarm</i>, 2015 / Animated GIF, 960&nbsp;&times;&nbsp;540 px</div>'
+        url: photos/treptow-3.gif
+        thumb: thumbnails/treptow-3_thumb.gif
+      - caption: '<div class="caption">Meghan Treptow. <i>M(o)(e)lt(e)(i)n(g)</i>, 2016 / Animated GIF, 1280&nbsp;&times;&nbsp;720 px</div>'
+        url: photos/treptow-3.gif
+        thumb: thumbnails/treptow-3_thumb.gif
+
+  text: >
+      <div id="statement"><div class="subtitle">Wizard Paintings</div><p class="statement-text"><i>Winston Churchill once said, &#8220;the eyes are the windows of your face.&#8221;<br>&mdash;Christopher Walken</p><br><p class="statement-text">My recent animation work uses the eye as a site of material ambiguity, simultaneously comprising liquid and solid. The pupil is both a hole and a dot of virtual ink, the iris both an evolutionary mandala and an ordinary muscle. Similarly, GIF art inhabits a space between video and still image. While GIFs are durational like videos, they are used online in similar contexts as images, and the file extension is technically an image format. In displaying GIFs, I choose to treat them as discrete images, rather than videos that would loop for a certain length of time and be programmed in a certain order. While each animated sequence has a beginning and end, the incessant repetition is something I don&#8217t want to interrupt. It is inherent to the format, and a uniquely mesmerizing aspect of GIFs.</p><br><p class="statement-text">My main goal this year has been to teach myself animation techniques, which is something I plan to continue. I want to embrace the internet as a location and distribution tool for my animation and illustration work, and finally become &#8220;famous&#8221; on Tumblr, Instagram, or whatever new social media platform is about to break out. I also want to open a couple of Etsy shops, one for laser cut acrylic jewelry and one for custom watercolor paintings of people&#8217;s dogs. My long-term goals are to bowl over 200 and remember to wear sunscreen every day.</p><br><p class="statement-text"><a href="mailto:meghan.treptow@gmail.com">meghan.treptow@gmail.com</a></p><br><p class="statement-text"><a href="https://www.instagram.com/romptart/">Instagram</a></p></div>
+
+- name: Miguel Vazquez
+  themes:
+      - "Science / Existentialism"
+  images:
+      - caption: '<div class="caption">Miguel Vazquez. <i>Light Trails from Galena to Chicago #18<i>, 2015 / Digital print 16"&nbsp;&times;&nbsp;24"</div>'
+        url: photos/vazquez-1.jpg
+        thumb: thumbnails/vazquez-1_thumb.jpg
+      - caption: '<div class="caption">Miguel Vazquez. <i>Light Trails from Galena to Chicago #20<i>, 2015 / Digital print 16"&nbsp;&times;&nbsp;24"</div>'
+        url: photos/vazquez-2.jpg
+        thumb: thumbnails/vazquez-2_thumb.jpg
+      - caption: '<div class="caption">Miguel Vazquez. Installation photo, <i>From Galena to Chicago<i>, 2015 / Digital photograph 10&#39;&nbsp;&times;&nbsp;10&#39;&nbsp;&times;&nbsp;20&#39;</div>'
+        url: photos/vazquez-3.jpg
+        thumb: thumbnails/vazquez-3_thumb.jpg
+      - caption: '<div class="caption">Miguel Vazquez. Installation photo, <i>From Galena to Chicago<i>, 2015 / Digital photograph 10&#39;&nbsp;&times;&nbsp;10&#39;&nbsp;&times;&nbsp;20&#39;</div>'
+        url: photos/vazquez-4.jpg
+        thumb: thumbnails/vazquez-4_thumb.jpg
+      - caption: '<div class="caption">Miguel Vazquez. <i>Aura 01<i>, 2016 / Digital print 24"&nbsp;&times;&nbsp;36"</div>'
+        url: photos/vazquez-5.jpg
+        thumb: thumbnails/vazquez-5_thumb.jpg
+      - caption: '<div class="caption">Miguel Vazquez. <i>The Father & the Son<i>, 2016 / Digital print 16"&nbsp;&times;&nbsp;24"</div>'
+        url: photos/vazquez-6.jpg
+        thumb: thumbnails/vazquez-6_thumb.jpg
+      - caption: '<div class="caption">Miguel Vazquez. <i>In the Name of the Son<i>, 2016 / Digital print 8"&nbsp;&times;&nbsp;10"</div>'
+        url: photos/vazquez-7.jpg
+        thumb: thumbnails/vazquez-7_thumb.jpg
+      - caption: '<div class="caption">Miguel Vazquez. <i>Ghost in the Quad<i>, 2016 / Digital print, mixed media 8"&nbsp;&times;&nbsp;10"</div>'
+        url: photos/vazquez-8.jpg
+        thumb: thumbnails/vazquez-8_thumb.jpg
+      - caption: '<div class="caption">Miguel Vazquez. Detail of<i>Ghost in the Quad<i>, 2016 / Digital print, mixed media 8"&nbsp;&times;&nbsp;10"</div>'
+        url: photos/vazquez-9.jpg
+        thumb: thumbnails/vazquez-9_thumb.jpg
+      - caption: '<div class="caption">Miguel Vazquez. <i>Revolution Mag<i>, 2015 / Print magazine 8.5"&nbsp;&times;&nbsp;11"</div>'
+        url: photos/vazquez-10.jpg
+        thumb: thumbnails/vazquez-10_thumb.jpg
+      - caption: '<div class="caption">Miguel Vazquez. Detail of <i>Revolution Mag<i>, 2015 / Print magazine 8.5"&nbsp;&times;&nbsp;11"</div>'
+        url: photos/vazquez-11.jpg
+        thumb: thumbnails/vazquez-11_thumb.jpg
+      - caption: '<div class="caption">Miguel Vazquez. <i>RTV Head (a.k.a Abe)<i>, 2015 / Interactive sculpture 4&#39;&nbsp;&times;&nbsp;4&#39;&nbsp;&times;&nbsp;3&#39;</div>'
+        url: photos/vazquez-12.jpg
+        thumb: thumbnails/vazquez-12_thumb.jpg
+
+  text: >
+      <div id="statement"><div class="subtitle">Photographer&nbsp;/ Curator&nbsp;/ Organizer&nbsp;/ Activist&nbsp;/ New Media Artist&nbsp;/ Aspiring Filmmaker</div><p class="statement-text">From my love of film to social activism, I have always felt the urge to participate and create through drawing, photography or moving image. As a film buff, I was eager to use photography to address formal concerns like framing and composition, and I took portraits of my family and neighborhood. I then started using photography in conjunction with social movements. I joined the group La Voz de los de Abajo and VillArte and used the arts to advance our activism, document our work and publicize events. La Voz works in solidarity with the Campesino movement in Honduras and VillArte promoting the Arts in the Little Village neighborhood.</p><br><p class="statement-text">I enrolled in UIC to expand my experience with different media, develop my own artistic language and make connections with other artists. Although my art was independent from my social activism, it was always related. My work brings into question my habits and my perceived norms of society in an attempt to find the connections between us all. I take a social and philosophical approach to our consumer culture by presenting it recognizably, and then twisting it into a place of contemplation. I invite questions about our interaction with technology, the media we consume and that which we choose to engage with or ignore. My materials are everyday objects such as computers, magazines, photographs and other household items.</p></div>
+
+- name: Paige A. Wynne
+  themes:
+      - "Family / Identity / Memory"
+  images:
+      - caption: '<div class="caption">Paige A. Wynne. Still from <i>One Thing</i>, 2014 / Running time: 1:37</div>'
+        url: photos/wynne-1.jpg
+        thumb: thumbnails/wynne-1_thumb.jpg
+      - caption: '<div class="caption">Paige A. Wynne. Still from <i>Who I Am</i>, 2014 / Running time: 3:04</div>'
+        url: photos/wynne-2.jpg
+        thumb: thumbnails/wynne-2_thumb.jpg
+      - caption: '<div class="caption">Paige A. Wynne. Still from <i>Whose Got Your Back</i>, 2014 / Running time: 2:06</div>'
+        url: photos/wynne-3.jpg
+        thumb: thumbnails/wynne-3_thumb.jpg
+      - caption: '<div class="caption">Paige A. Wynne. Still from <i>3:30</i>, 2015 / Running time: 0:23</div>'
+        url: photos/wynne-4.jpg
+        thumb: thumbnails/wynne-4_thumb.jpg
+      - caption: '<div class="caption">Paige A. Wynne. Still from <i>Property</i>, 2015 / Running time: 0:23</div>'
+        url: photos/wynne-5.jpg
+        thumb: thumbnails/wynne-5_thumb.jpg
+      - caption: '<div class="caption">Paige A. Wynne. Still from <i>Understand Me</i>, 2016 / Running time: 1:46</div>'
+        url: photos/wynne-6.jpg
+        thumb: thumbnails/wynne-6_thumb.jpg
+      - caption: '<div class="caption">Paige A. Wynne. Still from <i>Raising You</i>, 2016 / Running time: 1:44</div>'
+        url: photos/wynne-7.jpg
+        thumb: thumbnails/wynne-7_thumb.jpg
+      - caption: '<div class="caption">Paige A. Wynne. <i>My Parents Looking At Me</i>, 2015 / Digital inkjet print</div>'
+        url: photos/wynne-8.jpg
+        thumb: thumbnails/wynne-8_thumb.jpg
+      - caption: '<div class="caption">Paige A. Wynne. <i>Memorial Day</i>, 2015 / Digital inkjet print</div>'
+        url: photos/wynne-9.jpg
+        thumb: thumbnails/wynne-9_thumb.jpg
+      - caption: '<div class="caption">Paige A. Wynne. <i>Dads Betting List</i>, 2015 / Digital inkjet print</div>'
+        url: photos/wynne-10.jpg
+        thumb: thumbnails/wynne-10_thumb.jpg
+      - caption: '<div class="caption">Paige A. Wynne. <i>Moms Feet</i>, 2015 / Digital inkjet print</div>'
+        url: photos/wynne-11.jpg
+        thumb: thumbnails/wynne-11_thumb.jpg
+      - caption: '<div class="caption">Paige A. Wynne. <i>Dad At Breakfast</i>, 2015 / Digital inkjet print</div>'
+        url: photos/wynne-12.jpg
+        thumb: thumbnails/wynne-12_thumb.jpg
+      - caption: '<div class="caption">Paige A. Wynne. <i>Changing Shirt</i>, 2016 / Digital inkjet print</div>'
+        url: photos/wynne-13.jpg
+        thumb: thumbnails/wynne-13_thumb.jpg
+      - caption: '<div class="caption">Paige A. Wynne. <i>Tucking in Shirt</i>, 2016 / Digital inkjet print</div>'
+        url: photos/wynne-14.jpg
+        thumb: thumbnails/wynne-14_thumb.jpg
+      - caption: '<div class="caption">Paige A. Wynne. <i>Mom In Window</i>, 2016 / Digital inkjet print</div>'
+        url: photos/wynne-15.jpg
+        thumb: thumbnails/wynne-15_thumb.jpg
+      - caption: '<div class="caption">Paige A. Wynne. <i>Garage 1</i>, 2016 / Digital inkjet print</div>'
+        url: photos/wynne-16.jpg
+        thumb: thumbnails/wynne-16_thumb.jpg
+      - caption: '<div class="caption">Paige A. Wynne. <i>Garage 2</i>, 2016 / Digital inkjet print</div>'
+        url: photos/wynne-17.jpg
+        thumb: thumbnails/wynne-17_thumb.jpg
+      - caption: '<div class="caption">Paige A. Wynne. <i>Garage 3</i>, 2016 / Digital inkjet print</div>'
+        url: photos/wynne-18.jpg
+        thumb: thumbnails/wynne-18_thumb.jpg
+
+  text: >
+      <div id="statement"><div class="subtitle">Photographer&nbsp&#43; Filmmaker</div><p class="statement-text">I explore the stories unfolding in my life. Through film, photographs, audio recording and writing, I use the documentary form to create work that is thematically and emotionally resonant with my current experiences. My project, <i>HOME</i>, documents my parents, who are divorced but still living at home together, in their most natural and comfortable of environments: our house. I investigate how they define and experience home, and what they have sacrificed to make a home for me. As an only child, our family structure creates a triangle, which makes us more dependent on each other. My process for gathering material is slow and intuitive: I simply observe, in the most patient of ways, until I gain a sense of what makes my subject unique and worth remembering. As soon as the feeling is present I hit record.</p><br><p class="statement-text">After graduation, I hope to continue working at the video department at UIC, and will sustain my documentary practice. I also am going to start volunteering at the UIC Hospital as a UI Care liaison for the first 100 hours, and then go into specialty units such as obstetrics and the baby cuddling/neonatal intensive care unit. And I plan to volunteer at PAWS Chicago or The Anti-Cruelty society to work with dogs. Also, I hope to travel outside of the US, maybe backpacking through Europe, South Africa or South America.</p><br><p class="statement-text"><a href="mailto:Paigeashley469@gmail.com">Paigeashley469@gmail.com</a></p></div>
+
+
+
+
+
+
