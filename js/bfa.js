@@ -124,10 +124,11 @@ $(document).ready(function(){
 
     function pageChange(){
       showPage(location.hash.substring(1))
+      $('#header-main').css('display','block')
     }
 
     if (location.hash){
-      pageChange();
+      pageChange()
     }    
 
     window.onhashchange = pageChange;
