@@ -307,6 +307,6 @@
 
 	#fancybox-loading div {
 		background-image: url('../fancybox/loading.gif');
-		background-size: 165px 12px; /*The size of the normal image, half the size of the hi-res image*/
+		background-size: 65px 12px; /*The size of the normal image, half the size of the hi-res image*/
 	}
 }
