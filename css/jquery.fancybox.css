@@ -53,7 +53,7 @@
 
 .fancybox-error {
 	color: #444;
-	font: 14px/20px "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font: 12px/15px "Helvetica Neue",Helvetica,Arial,sans-serif;
 	margin: 0;
 	padding: 15px;
 	white-space: nowrap;
@@ -197,11 +197,29 @@
 
 .fancybox-title {
 	visibility: hidden;
-	font: normal 13px/20px "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 	font-weight: bold;
 	position: relative;
 	text-shadow: none;
 	z-index: 8050;
+}
+
+.fancybox-title i {
+	font-style: italic;
+}
+
+.fancybox-title a,
+.fancybox-title a:visited
+.fancybox-title a:active {
+	font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-weight: bold;
+	border-bottom: 1px solid #111;
+	color: #111;
+}
+
+.fancybox-title a:hover {
+	background-color: #111;
+	color: #e9e9e9;
 }
 
 .fancybox-opened .fancybox-title {
