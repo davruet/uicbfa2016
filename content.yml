@@ -12,25 +12,25 @@
   themes:
       - "Aesthetics / Material (labor) / Simulacra"
   images:
-      - caption: '<div class="caption">Anna Aiello. <i>Eating Disorder 1</i>, 2016 / Still from video entitled </i>It’s Not Right But It’s Okay</i>, 1920&nbsp;&times;&nbsp;1080 px</div>'
+      - caption: '<div class="caption">Anna Aiello. <i>Eating Disorder 1</i>, 2016 / Still from video entitled </i>It’s Not Right But It’s Okay</i>, 1920&nbsp;&times;&nbsp;1080&nbsp;px</div>'
         url: photos/aiello-1.jpg
         thumb: thumbnails/aiello-1_thumb.jpg
-      - caption: '<div class="caption">Anna Aiello. <i>Pop</i>, 2016 / Still from video entitled <i>It’s Not Right But It’s Okay</i>, 1920&nbsp;&times;&nbsp;1080 px</div>'
+      - caption: '<div class="caption">Anna Aiello. <i>Pop</i>, 2016 / Still from video entitled <i>It’s Not Right But It’s Okay</i>, 1920&nbsp;&times;&nbsp;1080&nbsp;px</div>'
         url: photos/aiello-2.jpg
         thumb: thumbnails/aiello-2_thumb.jpg
-      - caption: '<div class="caption">Anna Aiello. <i>Eating Disorder 2</i>, 2016 / Still from video entitled <i>It’s Not Right But It’s Okay</i>, 1920&nbsp;&times;&nbsp;1080 px</div>'
+      - caption: '<div class="caption">Anna Aiello. <i>Eating Disorder 2</i>, 2016 / Still from video entitled <i>It’s Not Right But It’s Okay</i>, 1920&nbsp;&times;&nbsp;1080&nbsp;px</div>'
         url: photos/aiello-3.jpg
         thumb: thumbnails/aiello-3_thumb.jpg
-      - caption: '<div class="caption">Anna Aiello. <i>Tough Girl 1</i>, 2016 / Still from video entitled <i>It’s Not Right But It’s Okay</i>, 3264&nbsp;&times;&nbsp;2448 px</div>'
+      - caption: '<div class="caption">Anna Aiello. <i>Tough Girl 1</i>, 2016 / Still from video entitled <i>It’s Not Right But It’s Okay</i>, 3264&nbsp;&times;&nbsp;2448&nbsp;px</div>'
         url: photos/aiello-4.jpg
         thumb: thumbnails/aiello-4_thumb.jpg
-      - caption: '<div class="caption">Anna Aiello. <i>Paper Shuffle</i>, 2016 / Still from video entitled <i>It’s Not Right But It’s Okay</i>, 1920&nbsp;&times;&nbsp;1080 px</div>'
+      - caption: '<div class="caption">Anna Aiello. <i>Paper Shuffle</i>, 2016 / Still from video entitled <i>It’s Not Right But It’s Okay</i>, 1920&nbsp;&times;&nbsp;1080&nbsp;px</div>'
         url: photos/aiello-5.jpg
         thumb: thumbnails/aiello-5_thumb.jpg
-      - caption: '<div class="caption">Anna Aiello. <i>Tough Girl 2</i>, 2016 / Still from video entitled <i>It’s Not Right But It’s Okay</i>, 3264&nbsp;&times;&nbsp;2448 px</div>'
+      - caption: '<div class="caption">Anna Aiello. <i>Tough Girl 2</i>, 2016 / Still from video entitled <i>It’s Not Right But It’s Okay</i>, 3264&nbsp;&times;&nbsp;2448&nbsp;px</div>'
         url: photos/aiello-6.jpg
         thumb: thumbnails/aiello-6_thumb.jpg
-      - caption: '<div class="caption">Anna Aiello. <i>God</i>, 2016 / Still from video entitled <i>It’s Not Right But It’s Okay</i>, 1920&nbsp;&times;&nbsp;1080 px</div>'
+      - caption: '<div class="caption">Anna Aiello. <i>God</i>, 2016 / Still from video entitled <i>It’s Not Right But It’s Okay</i>, 1920&nbsp;&times;&nbsp;1080&nbsp;px</div>'
         url: photos/aiello-7.jpg
         thumb: thumbnails/aiello-7_thumb.jpg
       - caption: '<div class="caption">Anna Aiello. <i>Flowers</i>, 2015 / Animation still 2711&nbsp;&times;&nbsp;2716&nbsp;px</div>'
@@ -227,7 +227,7 @@
         url: photos/cipcic-15.jpg
         thumb: thumbnails/cipcic-15_thumb.jpg
       - caption: '<div class="caption">Adam R Cipcic. <i>The Hand that Feeds</i>, 2015 / Oil on canvas 48"&nbsp;&times;&nbsp;24"</div>'
-        url: photos/cipcic-16_.jpg
+        url: photos/cipcic-16.jpg
         thumb: thumbnails/cipcic-16_thumb.jpg
 
   text: >
@@ -267,7 +267,7 @@
       - caption: '<div class="caption">Omar Diaz. <i>3D Model</i>, 2015 / Digital model</div>'
         url: photos/diaz-5.jpg
         thumb: thumbnails/diaz-5_thumb.jpg
-      - caption: '<div class="caption">Omar Diaz. <i>Mermaid</i>, 2016 / Hand drawn animation 1280 × 720 px <a href="https://vimeo.com/162416583" target="_blank">Watch</a></div>'
+      - caption: '<div class="caption">Omar Diaz. <i>Mermaid</i>, 2016 / Hand drawn animation 1280 × 720&nbsp;px <a href="https://vimeo.com/162416583" target="_blank">Watch</a></div>'
         url: photos/diaz-6.jpg
         thumb: thumbnails/diaz-6_thumb.jpg
       - caption: '<div class="caption">Omar Diaz. <i>Mer Maid</i>, 2015 / Pencil and ink on paper 9"&nbsp;&times;&nbsp;12"</div>'
@@ -442,7 +442,7 @@
       - caption: '<div class="caption">Stephanie Kuzyk. <i>Dinner with Friends</i>, 2016 / Digital print 22"&nbsp;&times;&nbsp;22"</div>'
         url: photos/kuzyk-2.jpg
         thumb: thumbnails/kuzyk-2_thumb.jpg
-      - caption: '<div class="caption">Stephanie Kuzyk. <i>It’s Been Done Before</i>, 2015 / Interactive GIF 516&nbsp;&times;&nbsp;385 px</div>'
+      - caption: '<div class="caption">Stephanie Kuzyk. <i>It’s Been Done Before</i>, 2015 / Interactive GIF 516&nbsp;&times;&nbsp;385&nbsp;px</div>'
         url: photos/kuzyk-3.gif
         thumb: thumbnails/kuzyk-3_thumb.gif
       - caption: '<div class="caption">Stephanie Kuzyk. <i>Vintage Ad #1</i>, 2016 / Digital collage 22"&nbsp;&times;&nbsp;29"</div>'
@@ -566,16 +566,16 @@
   themes:
       - "Science / Existentialism"
   images:
-      - caption: '<div class="caption">Maria Sano. <i>Disturbia: The Dark Side of a Good Suburban Neighborhood</i>, 2016 / Digital 3456&nbsp;&times;&nbsp;5184 px</div>'
+      - caption: '<div class="caption">Maria Sano. <i>Disturbia: The Dark Side of a Good Suburban Neighborhood</i>, 2016 / Digital 3456&nbsp;&times;&nbsp;5184&nbsp;px</div>'
         url: photos/sano-1.jpg
         thumb: thumbnails/sano-1_thumb.jpg
-      - caption: '<div class="caption">Maria Sano. <i>Disturbia: The Dark Side of a Good Suburban Neighborhood</i>, 2016 / Digital 3140&nbsp;&times;&nbsp;5184 px</div>'
+      - caption: '<div class="caption">Maria Sano. <i>Disturbia: The Dark Side of a Good Suburban Neighborhood</i>, 2016 / Digital 3140&nbsp;&times;&nbsp;5184&nbsp;px</div>'
         url: photos/sano-2.jpg
         thumb: thumbnails/sano-2_thumb.jpg
-      - caption: '<div class="caption">Maria Sano. <i>Restroom</i>, 2016 / Digital 3456&nbsp;&times;&nbsp;5184 px</div>'
+      - caption: '<div class="caption">Maria Sano. <i>Restroom</i>, 2016 / Digital 3456&nbsp;&times;&nbsp;5184&nbsp;px</div>'
         url: photos/sano-3.jpg
         thumb: thumbnails/sano-3_thumb.jpg
-      - caption: '<div class="caption">Maria Sano. <i>Take</i>, 2016 / Digital 3456&nbsp;&times;&nbsp;5184 px</div>'
+      - caption: '<div class="caption">Maria Sano. <i>Take</i>, 2016 / Digital 3456&nbsp;&times;&nbsp;5184&nbsp;px</div>'
         url: photos/sano-4.jpg
         thumb: thumbnails/sano-4_thumb.jpg
 
@@ -678,19 +678,19 @@
   themes:
       - "Surveillance / Technology / Communication"
   images:
-      - caption: '<div class="caption">Meghan Treptow. <i>What We In The Business Call Transference</i>, 2015 / Animated GIF 702&nbsp;&times;&nbsp;1248 px</div>'
+      - caption: '<div class="caption">Meghan Treptow. <i>What We In The Business Call Transference</i>, 2015 / Animated GIF 702&nbsp;&times;&nbsp;1248&nbsp;px</div>'
         url: photos/treptow-1.gif
         thumb: thumbnails/treptow-1_thumb.gif
-      - caption: '<div class="caption">Meghan Treptow. <i>Goals</i>, 2015 / Animated GIF 968&nbsp;&times;&nbsp;1291 px</div>'
+      - caption: '<div class="caption">Meghan Treptow. <i>Goals</i>, 2015 / Animated GIF 968&nbsp;&times;&nbsp;1291&nbsp;px</div>'
         url: photos/treptow-2.gif
         thumb: thumbnails/treptow-2_thumb.gif
-      - caption: '<div class="caption">Meghan Treptow. <i>Elseyes</i>, 2015 / Animated GIF, dry erase marker 930&nbsp;&times;&nbsp;764 px</div>'
+      - caption: '<div class="caption">Meghan Treptow. <i>Elseyes</i>, 2015 / Animated GIF, dry erase marker 930&nbsp;&times;&nbsp;764&nbsp;px</div>'
         url: photos/treptow-3.gif
         thumb: thumbnails/treptow-3_thumb.gif
-      - caption: '<div class="caption">Meghan Treptow. <i>Swarm</i>, 2015 / Animated GIF, 960&nbsp;&times;&nbsp;540 px</div>'
+      - caption: '<div class="caption">Meghan Treptow. <i>Swarm</i>, 2015 / Animated GIF, 960&nbsp;&times;&nbsp;540&nbsp;px</div>'
         url: photos/treptow-4.gif
         thumb: thumbnails/treptow-4_thumb.gif
-      - caption: '<div class="caption">Meghan Treptow. <i>M(o)(e)lt(e)(i)n(g)</i>, 2016 / Animated GIF, 1280&nbsp;&times;&nbsp;720 px</div>'
+      - caption: '<div class="caption">Meghan Treptow. <i>M(o)(e)lt(e)(i)n(g)</i>, 2016 / Animated GIF, 1280&nbsp;&times;&nbsp;720&nbsp;px</div>'
         url: photos/treptow-5.gif
         thumb: thumbnails/treptow-5_thumb.gif
 
