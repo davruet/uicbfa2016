@@ -185,6 +185,7 @@ p {
 	position: fixed;
 	background-color: #e9e9e9;
 	clear: left;
+	overflow-y: hidden;
 
 
 }
@@ -408,6 +409,20 @@ ul.section-list {
 	font-style: italic;
 }
 
+#uic-home {
+	width: 40px;
+	height: 40px;
+	opacity: 0.4;
+	position: fixed;
+	left: 20px;
+	bottom: 40px;
+	z-index: -2;
+}
+
+#uic-home img {
+	max-width: 100%;
+}
+
 @media (max-width: 1091px) {
 
 #title {
@@ -436,8 +451,7 @@ ul.section-list {
 
 #bottom {
 	position: relative;
-	margin-top: 50px;
-	margin-left: 10px;
+	margin: 50px 10px;
 	border-top: 1px solid #e9e9e9;
 }
 
@@ -497,6 +511,13 @@ ul.section-list {
 	padding-bottom: 0;
 	background-color: #e9e9e9;
 	box-sizing: border-box;
+}
+
+#uic-home {
+	position: fixed;
+	left: 20px;
+	bottom: 70px;
+	z-index: -2;
 }
 
 #statement {
