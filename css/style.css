@@ -15,7 +15,7 @@
       src: url('fonts/Stanley-Bold.eot?#iefix') format('embedded-opentype'),
            url('fonts/Stanley-Bold.woff') format('woff'),
            url('fonts/Stanley-Bold.ttf') format('truetype'),
-           url('fonts/Stanley-Bold.svg#Stanley-Bold') format('svg');
+           url('fonts/ot_Stanley-Bold.svg#Stanley-Bold') format('svg');
    font-weight: bold;
    font-style: normal;
 }
@@ -37,7 +37,7 @@
       src: url('fonts/Stanley-Italic.eot?#iefix') format('embedded-opentype'),
            url('fonts/Stanley-Italic.woff') format('woff'),
            url('fonts/Stanley-Italic.ttf') format('truetype'),
-           url('fonts/Stanley-talic.svg#Stanley-Italic') format('svg');
+           url('fonts/Stanley-Italic.svg#Stanley-Italic') format('svg');
    font-weight: normal;
    font-style: italic;
 }
@@ -447,18 +447,6 @@ ul.section-list {
 	margin-top: 50px;
 }
 
-#nav {
-	width: 100%;
-	padding-left: 45px;
-	background-color: #e9e9e9;
-	box-sizing: border-box;
-}
-
-.item {
-	display: inline-block;
-	margin-right: 40px;
-	padding-top: 10px;
-}
 
 #statement {
 	width: 100%;
@@ -476,6 +464,20 @@ ul.section-list {
 	width: 95%;
 	margin: 50px auto;
 	box-sizing: border-box;
+}
+
+#nav {
+	width: 100%;
+	padding-left: 45px;
+	padding-bottom: 0;
+	background-color: #e9e9e9;
+	box-sizing: border-box;
+}
+
+.item {
+	display: inline-block;
+	margin-right: 40px;
+	padding-top: 5px;
 }
 
 #index,
