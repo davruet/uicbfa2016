@@ -1,39 +1,39 @@
 @font-face {
    font-family: 'Stanley-Regular';
-      src: url('../fonts/Stanley-Regular.eot');
-      src: url('../fonts/Stanley-Regular.eot?#iefix') format('embedded-opentype'),
-           url('../fonts/Stanley-Regular.woff') format('woff'),
-           url('../fonts/Stanley-Regular.ttf') format('truetype'),
-   font-weight: 400;
+      src: url('/fonts/Stanley-Regular.eot');
+      src: url('/fonts/Stanley-Regular.eot?#iefix') format('embedded-opentype'),
+           url('/fonts/Stanley-Regular.woff') format('woff'),
+           url('/fonts/Stanley-Regular.ttf') format('truetype'),
+   font-weight: normal;
    font-style: normal;
 }
 
 @font-face {
    font-family: 'Stanley-Bold';
-      src: url('../fonts/Stanley-Bold.eot');
-      src: url('../fonts/Stanley-Bold.eot?#iefix') format('embedded-opentype'),
-           url('../fonts/Stanley-Bold.woff') format('woff'),
-           url('../fonts/Stanley-Bold.ttf') format('truetype'),
+      src: url('/fonts/Stanley-Bold.eot');
+      src: url('/fonts/Stanley-Bold.eot?#iefix') format('embedded-opentype'),
+           url('/fonts/Stanley-Bold.woff') format('woff'),
+           url('/fonts/Stanley-Bold.ttf') format('truetype'),
    font-weight: bold;
    font-style: normal;
 }
 
 @font-face {
    font-family: 'Stanley-BoldItalic';
-      src: url('../fonts/Stanley-BoldItalic.eot');
-      src: url('../fonts/Stanley-BoldItalic.eot?#iefix') format('embedded-opentype'),
-           url('../fonts/Stanley-BoldItalic.woff') format('woff'),
-           url('../fonts/Stanley-BoldItalic.ttf') format('truetype'),
+      src: url('/fonts/Stanley-BoldItalic.eot');
+      src: url('/fonts/Stanley-BoldItalic.eot?#iefix') format('embedded-opentype'),
+           url('/fonts/Stanley-BoldItalic.woff') format('woff'),
+           url('/onts/Stanley-BoldItalic.ttf') format('truetype'),
    font-weight: bold;
    font-style: italic;
 }
 
 @font-face {
    font-family: 'Stanley-Italic';
-      src: url('../fonts/Stanley-Italic.eot');
-      src: url('../fonts/Stanley-Italic.eot?#iefix') format('embedded-opentype'),
-           url('../fonts/Stanley-Italic.woff') format('woff'),
-           url('../fonts/Stanley-Italic.ttf') format('truetype'),
+      src: url('/fonts/Stanley-Italic.eot');
+      src: url('/fonts/Stanley-Italic.eot?#iefix') format('embedded-opentype'),
+           url('/fonts/Stanley-Italic.woff') format('woff'),
+           url('/fonts/Stanley-Italic.ttf') format('truetype'),
    font-weight: normal;
    font-style: italic;
 }
