@@ -94,6 +94,7 @@
 	width: 131px;
 	height: 24px;
 	background: url('../fancybox/loading.gif') center center no-repeat;
+	background-size: 131px 24px;
 }
 
 .fancybox-close {
