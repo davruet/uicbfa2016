@@ -15,7 +15,7 @@
       src: url('fonts/Stanley-Bold.eot?#iefix') format('embedded-opentype'),
            url('fonts/Stanley-Bold.woff') format('woff'),
            url('fonts/Stanley-Bold.ttf') format('truetype'),
-           url('fonts/ot_Stanley-Bold.svg#Stanley-Bold') format('svg');
+           url('fonts/Stanley-Bold.svg#Stanley-Bold') format('svg');
    font-weight: bold;
    font-style: normal;
 }
@@ -348,6 +348,7 @@ ul.section-list {
 	padding: 20px 40px 80px 40px;
 	color: #111;
 	background-color: #fff;
+	z-index: 4;
 }
 
 .statement-text {
