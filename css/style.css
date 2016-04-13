@@ -4,7 +4,6 @@
       src: url('fonts/Stanley-Regular.eot?#iefix') format('embedded-opentype'),
            url('fonts/Stanley-Regular.woff') format('woff'),
            url('fonts/Stanley-Regular.ttf') format('truetype'),
-           url('fonts/Stanley-Regular.svg#Stanley-Regular') format('svg');
    font-weight: normal;
    font-style: normal;
 }
@@ -15,7 +14,6 @@
       src: url('fonts/Stanley-Bold.eot?#iefix') format('embedded-opentype'),
            url('fonts/Stanley-Bold.woff') format('woff'),
            url('fonts/Stanley-Bold.ttf') format('truetype'),
-           url('fonts/Stanley-Bold.svg#Stanley-Bold') format('svg');
    font-weight: bold;
    font-style: normal;
 }
@@ -26,7 +24,6 @@
       src: url('fonts/Stanley-BoldItalic.eot?#iefix') format('embedded-opentype'),
            url('fonts/Stanley-BoldItalic.woff') format('woff'),
            url('fonts/Stanley-BoldItalic.ttf') format('truetype'),
-           url('fonts/Stanley-BoldItalic.svg#Stanley-BoldItalic') format('svg');
    font-weight: bold;
    font-style: italic;
 }
@@ -37,7 +34,6 @@
       src: url('fonts/Stanley-Italic.eot?#iefix') format('embedded-opentype'),
            url('fonts/Stanley-Italic.woff') format('woff'),
            url('fonts/Stanley-Italic.ttf') format('truetype'),
-           url('fonts/Stanley-Italic.svg#Stanley-Italic') format('svg');
    font-weight: normal;
    font-style: italic;
 }
@@ -430,11 +426,8 @@ ul.section-list {
 	width: 100%;
 }
 
-#title {
-	display: none;
-}
 
-#title-artist {
+#title {
 	font-size: 60px;
 	line-height: 60px;
 	margin-top: 30px;
