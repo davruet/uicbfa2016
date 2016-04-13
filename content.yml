@@ -30,13 +30,13 @@
       - caption: '<div class="caption">Anna Aiello. <i>Tough Girl 2</i>, 2016 / Still from video entitled <i>It’s Not Right But It’s Okay</i>, 3264&nbsp;&times;&nbsp;2448 px</div>'
         url: photos/aiello-6.jpg
         thumb: thumbnails/aiello-6_thumb.jpg
-      - caption: '<div class="caption">Anna Aiello. <i>God</i>, 2016 / Still from video entitled <i>It’s Not Right But It’s Okay</i> 1920&nbsp;&times;&nbsp;1080 px</div>'
+      - caption: '<div class="caption">Anna Aiello. <i>God</i>, 2016 / Still from video entitled <i>It’s Not Right But It’s Okay</i>, 1920&nbsp;&times;&nbsp;1080 px</div>'
         url: photos/aiello-7.jpg
         thumb: thumbnails/aiello-7_thumb.jpg
       - caption: '<div class="caption">Anna Aiello. <i>Flowers</i>, 2015 / Animation still 2711&nbsp;&times;&nbsp;2716&nbsp;px</div>'
         url: photos/aiello-8.jpg
         thumb: thumbnails/aiello-8_thumb.jpg
-      - caption: '<div class="caption">Anna Aiello. <i>Reflecting Hearts, 2015 / Animation still 4533&nbsp;&times;&nbsp;2383&nbsp;px</div>'
+      - caption: '<div class="caption">Anna Aiello. <i>Reflecting Hearts</i>, 2015 / Animation still 4533&nbsp;&times;&nbsp;2383&nbsp;px</div>'
         url: photos/aiello-9.jpg
         thumb: thumbnails/aiello-9_thumb.jpg
 
@@ -82,13 +82,13 @@
   themes:
       - "Family / Identity / Memory"
   images:
-      - caption: '<div class="caption">Amanda Cervantes. Surrogates, 2016 / Digital inkjet prints, ink, heat activated adhesive 2"&nbsp;&times;&nbsp;2"</div>'
+      - caption: '<div class="caption">Amanda Cervantes. <i>Surrogates</i>, 2016 / Digital inkjet prints, ink, heat activated adhesive 2"&nbsp;&times;&nbsp;2"</div>'
         url: photos/cervantes-1.jpg
         thumb: thumbnails/cervantes-1_thumb.jpg
-      - caption: '<div class="caption">Amanda Cervantes. Surrogates, 2016 / Digital inkjet prints, ink, heat activated adhesive 2"&nbsp;&times;&nbsp;2"</div>'
+      - caption: '<div class="caption">Amanda Cervantes. <i>Surrogates</i>, 2016 / Digital inkjet prints, ink, heat activated adhesive 2"&nbsp;&times;&nbsp;2"</div>'
         url: photos/cervantes-2.jpg
         thumb: thumbnails/cervantes-2_thumb.jpg
-      - caption: '<div class="caption">Amanda Cervantes. <i>I Have Been Taught How To Be<i>, 2015 ongoing / Digital inkjet print 11"&nbsp;&times;&nbsp;16"</div>'
+      - caption: '<div class="caption">Amanda Cervantes. <i>I Have Been Taught How To Be</i>, 2015 ongoing / Digital inkjet print 11"&nbsp;&times;&nbsp;16"</div>'
         url: photos/cervantes-3.jpg
         thumb: thumbnails/cervantes-3_thumb.jpg
       - caption: '<div class="caption">Amanda Cervantes. <i>Mi Mamá Sin Cara</i>, 2016 / Digital inkjet print on foamcore 8.5"&nbsp;&times;&nbsp;12"</div>'
@@ -208,10 +208,10 @@
       - caption: '<div class="caption">Adam R Cipcic. <i>The Changing Landscape</i>, 2016 / Fish tanks, water, dry ice, LED lights. Installation size contingent on space</div>'
         url: photos/cipcic-10_b.jpg
         thumb: thumbnails/cipcic-10_b_thumb.jpg
-      - caption: '<div class="caption">Adam R Cipcic. <i>Fata Morgana No.5</i>, 2015 / Acrylic over scanograms on photo on luster paper 7"&nbsp;&times;&nbsp;11"</div>'
+      - caption: '<div class="caption">Adam R Cipcic. <i>Fata Morgana No. 5</i>, 2015 / Acrylic over scanograms on photo on luster paper 7"&nbsp;&times;&nbsp;11"</div>'
         url: photos/cipcic-11.jpg
         thumb: thumbnails/cipcic-11_thumb.jpg
-      - caption: '<div class="caption">Adam R Cipcic. <i>Fata Morgana No.5</i>, 2015 / Acrylic over scanograms on photo on luster paper 11"&nbsp;&times;&nbsp;7"</div>'
+      - caption: '<div class="caption">Adam R Cipcic. <i>Fata Morgana No. 5</i>, 2015 / Acrylic over scanograms on photo on luster paper 11"&nbsp;&times;&nbsp;7"</div>'
         url: photos/cipcic-12.jpg
         thumb: thumbnails/cipcic-12_thumb.jpg
       - caption: '<div class="caption">Adam R Cipcic. <i>Our Little Piece of Heaven</i>, 2015 / Oil, acrylic, and latex on found wood 30"&nbsp;&times;&nbsp;80"</div>'
@@ -227,7 +227,7 @@
         url: photos/cipcic-15.jpg
         thumb: thumbnails/cipcic-15_thumb.jpg
       - caption: '<div class="caption">Adam R Cipcic. <i>The Hand that Feeds</i>, 2015 / Oil on canvas 48"&nbsp;&times;&nbsp;24"</div>'
-        url: photos/cipcic-16_g.jpg
+        url: photos/cipcic-16_.jpg
         thumb: thumbnails/cipcic-16_thumb.jpg
 
   text: >
@@ -303,7 +303,7 @@
   themes:
       - "Science / Existentialism"
   images:
-      - caption: '<div class="caption">Carlos Flores. <i>This Is Not For You</i>, 2016 / Wood, oil paint, polyurethane foam 3&#39;&nbsp;&times;&nbsp;4&#39;&nbsp;&times;&nbsp;8"</div>'
+      - caption: '<div class="caption">Andrew Grant. <i>Reflection&sup2;</i>, 2016 / 3D animation video still</div>'
         url: photos/grant-1.jpg
         thumb: thumbnails/grant-1_thumb.jpg
       - caption: '<div class="caption">Andrew Grant. <i>Reflection&sup2;</i>, 2016 / 3D animation video still</div>'
@@ -335,7 +335,7 @@
         thumb: thumbnails/grimes-3_thumb.jpg
 
   text: >
-      <div id="statement"><div class="subtitle">Artist&nbsp;/ Filmmaker&nbsp;/ Activist</div><p class="statement-text"><i>My favorite thing right now is any opportunity to say "Yeah, I guess I don't necessarily subscribe to that ideology."</i></p><br><p class="statement-text">I began my art career as a filmmaker creating clever endurance films and self-referential videos. As it became increasingly necessary to begin questioning the world around me, this sort of wit faded to the background.</p><br><p class="statement-text">I went through a phase that almost everyone around me was enduring&mdash;one of exhaustion. It was hard to distinguish if the double shifts I was working or the McDonald&#8217s I was consuming between them was tapping my energy most, but I only had to look as far as my parents to realize that this phase was permanent.</p><br><p class="statement-text">Law enforcement officers were gunning down young black males who looked like me once every two weeks. I had to consider if the cop car following me home on my skateboard had the same instincts.</p><br><p class="statement-text">I questioned why the value of a person was consistently measured by how much they contributed to the capitalistic structure. I wondered why my tuition debt was crippling me.</p><br><p class="statement-text">I began to research and uncover a system in America that ensured a bottom class through factors that made it difficult to think beyond the current day, things like busyness, malnutrition, racism and materialism. I encouraged my friends, &#8220;Break out the system!&#8221; But I was left with a difficult question to answer, "How?"</p><br><p class="statement-text">One solution I began to explore came from the realization that as capitalism increased, time for things like strengthening relationships, exploring the human spirit and cherishing existence were exchanged for extra opportunities to profit. Eventually, toil for the sake of toil became inherently virtuous, regardless of productivity.</p><br><p class="statement-text">My current art practice questions the forces that have shaped us to think this way and calls for the restoration of the original American dream&mdash;free time to achieve progress beyond the material.</p></div>
+      <div id="statement"><div class="subtitle">Artist&nbsp;/ Filmmaker&nbsp;/ Activist</div><p class="statement-text"><i>My favorite thing right now is any opportunity to say &#8220;Yeah, I guess I don't necessarily subscribe to that ideology.&#8221;</i></p><br><p class="statement-text">I began my art career as a filmmaker creating clever endurance films and self-referential videos. As it became increasingly necessary to begin questioning the world around me, this sort of wit faded to the background.</p><br><p class="statement-text">I went through a phase that almost everyone around me was enduring&mdash;one of exhaustion. It was hard to distinguish if the double shifts I was working or the McDonald&#8217s I was consuming between them was tapping my energy most, but I only had to look as far as my parents to realize that this phase was permanent.</p><br><p class="statement-text">Law enforcement officers were gunning down young black males who looked like me once every two weeks. I had to consider if the cop car following me home on my skateboard had the same instincts.</p><br><p class="statement-text">I questioned why the value of a person was consistently measured by how much they contributed to the capitalistic structure. I wondered why my tuition debt was crippling me.</p><br><p class="statement-text">I began to research and uncover a system in America that ensured a bottom class through factors that made it difficult to think beyond the current day, things like busyness, malnutrition, racism and materialism. I encouraged my friends, &#8220;Break out the system!&#8221; But I was left with a difficult question to answer, &#8220;How?&#8221;</p><br><p class="statement-text">One solution I began to explore came from the realization that as capitalism increased, time for things like strengthening relationships, exploring the human spirit and cherishing existence were exchanged for extra opportunities to profit. Eventually, toil for the sake of toil became inherently virtuous, regardless of productivity.</p><br><p class="statement-text">My current art practice questions the forces that have shaped us to think this way and calls for the restoration of the original American dream&mdash;free time to achieve progress beyond the material.</p></div>
 
 - name: Erin Grupp
   themes:
@@ -477,7 +477,7 @@
       - caption: '<div class="caption">Katie Morrison. <i>Watching the Unconscious No. 2</i>, 2016 / Oil on canvas 8.5"&nbsp;&times;&nbsp;11"</div>'
         url: photos/morrison-5.jpg
         thumb: thumbnails/morrison-5_thumb.jpg
-      - caption: '<div class="caption">Katie Morrison. <i>His, 2016 / Digital print 42"&nbsp;&times;&nbsp;40"</div>'
+      - caption: '<div class="caption">Katie Morrison. <i>His</i>, 2016 / Digital print 42"&nbsp;&times;&nbsp;40"</div>'
         url: photos/morrison-6.jpg
         thumb: thumbnails/morrison-6_thumb.jpg
       - caption: '<div class="caption">Katie Morrison. <i>Untitled (Letter From My Baby Sister)</i>, 2016 / Found letter circa 2010 / 8.5"&nbsp;&times;&nbsp;11" &#91;2 sheets&#93;</div>'
@@ -537,16 +537,16 @@
       - caption: '<div class="caption">Eric Rylo. <i>The Floor is Lava</i>, 2015 / Found object, house paint, plywood 16&#39;&nbsp;&times;&nbsp;16&#39;&nbsp;&times;&nbsp;10&#39;</div>'
         url: photos/rylo-1_e.jpg
         thumb: thumbnails/rylo-1_e_thumb.jpg
-      - caption: '<div class="caption">Eric Rylo. <i>Sitting on the Dock of the Bay</i>, 2015 / House paint on particle board 4&#39;x 8&#39;</div>'
+      - caption: '<div class="caption">Eric Rylo. <i>Sitting on the Dock of the Bay</i>, 2015 / House paint on particle board 4&#39;&nbsp;x&nbsp;8&#39;</div>'
         url: photos/rylo-2_a.jpg
         thumb: thumbnails/rylo-2_a_thumb.jpg
-      - caption: '<div class="caption">Eric Rylo. <i>Sitting on the Dock of the Bay</i>, 2015 / House paint on particle board 4&#39;x 8&#39;</div>'
+      - caption: '<div class="caption">Eric Rylo. <i>Sitting on the Dock of the Bay</i>, 2015 / House paint on particle board 4&#39;&nbsp;x&nbsp;8&#39;</div>'
         url: photos/rylo-2_b.jpg
         thumb: thumbnails/rylo-2_b_thumb.jpg
-      - caption: '<div class="caption">Eric Rylo. <i>Life Cycles, 2016 / Plaster cast of television, video projection 3:02 min loop 2&#39; 10"&nbsp;&times;&nbsp;2&#39; 3"&nbsp;&times;&nbsp;2&#39; 7"</div>'
+      - caption: '<div class="caption">Eric Rylo. <i>Life Cycles, 2016 / Plaster cast of television, video projection 3:02 min loop 2&#39; 10"&nbsp;&times;&nbsp;2&#39;&nbsp;3"&nbsp;&times;&nbsp;2&#39; 7"</div>'
         url: photos/rylo-3_a.jpg
         thumb: thumbnails/rylo-3_a_thumb.jpg
-      - caption: '<div class="caption">Eric Rylo. <i>Life Cycles, 2016 / Plaster cast of television, video projection 3:02 min loop 2&#39; 10"&nbsp;&times;&nbsp;2&#39; 3"&nbsp;&times;&nbsp;2&#39; 7"</div>'
+      - caption: '<div class="caption">Eric Rylo. <i>Life Cycles, 2016 / Plaster cast of television, video projection 3:02 min loop 2&#39; 10"&nbsp;&times;&nbsp;2&#39;&nbsp;3"&nbsp;&times;&nbsp;2&#39; 7"</div>'
         url: photos/rylo-3_b.jpg
         thumb: thumbnails/rylo-3_b_thumb.jpg
       - caption: '<div class="caption">Eric Rylo. <i>Emitting Frequencies</i>, 2016 / House paint, televisions parts, on particle board Two 4&#39;&nbsp;&times;&nbsp;8&#39; panels</div>'
@@ -688,60 +688,60 @@
         url: photos/treptow-3.gif
         thumb: thumbnails/treptow-3_thumb.gif
       - caption: '<div class="caption">Meghan Treptow. <i>Swarm</i>, 2015 / Animated GIF, 960&nbsp;&times;&nbsp;540 px</div>'
-        url: photos/treptow-3.gif
-        thumb: thumbnails/treptow-3_thumb.gif
+        url: photos/treptow-4.gif
+        thumb: thumbnails/treptow-4_thumb.gif
       - caption: '<div class="caption">Meghan Treptow. <i>M(o)(e)lt(e)(i)n(g)</i>, 2016 / Animated GIF, 1280&nbsp;&times;&nbsp;720 px</div>'
-        url: photos/treptow-3.gif
-        thumb: thumbnails/treptow-3_thumb.gif
+        url: photos/treptow-5.gif
+        thumb: thumbnails/treptow-5_thumb.gif
 
   text: >
-      <div id="statement"><div class="subtitle">Wizard Paintings</div><p class="statement-text"><i>Winston Churchill once said, &#8220;the eyes are the windows of your face.&#8221;<br>&mdash;Christopher Walken</p><br><p class="statement-text">My recent animation work uses the eye as a site of material ambiguity, simultaneously comprising liquid and solid. The pupil is both a hole and a dot of virtual ink, the iris both an evolutionary mandala and an ordinary muscle. Similarly, GIF art inhabits a space between video and still image. While GIFs are durational like videos, they are used online in similar contexts as images, and the file extension is technically an image format. In displaying GIFs, I choose to treat them as discrete images, rather than videos that would loop for a certain length of time and be programmed in a certain order. While each animated sequence has a beginning and end, the incessant repetition is something I don&#8217t want to interrupt. It is inherent to the format, and a uniquely mesmerizing aspect of GIFs.</p><br><p class="statement-text">My main goal this year has been to teach myself animation techniques, which is something I plan to continue. I want to embrace the internet as a location and distribution tool for my animation and illustration work, and finally become &#8220;famous&#8221; on Tumblr, Instagram, or whatever new social media platform is about to break out. I also want to open a couple of Etsy shops, one for laser cut acrylic jewelry and one for custom watercolor paintings of people&#8217;s dogs. My long-term goals are to bowl over 200 and remember to wear sunscreen every day.</p><br><p class="statement-text"><a href="mailto:meghan.treptow@gmail.com">meghan.treptow@gmail.com</a></p><br><p class="statement-text"><a href="https://www.instagram.com/romptart/">Instagram</a></p></div>
+      <div id="statement"><div class="subtitle">Wizard Paintings</div><p class="statement-text"><i>Winston Churchill once said, &#8220;the eyes are the windows of your face.&#8221;</i><br>&mdash;Christopher Walken</p><br><p class="statement-text">My recent animation work uses the eye as a site of material ambiguity, simultaneously comprising liquid and solid. The pupil is both a hole and a dot of virtual ink, the iris both an evolutionary mandala and an ordinary muscle. Similarly, GIF art inhabits a space between video and still image. While GIFs are durational like videos, they are used online in similar contexts as images, and the file extension is technically an image format. In displaying GIFs, I choose to treat them as discrete images, rather than videos that would loop for a certain length of time and be programmed in a certain order. While each animated sequence has a beginning and end, the incessant repetition is something I don&#8217t want to interrupt. It is inherent to the format, and a uniquely mesmerizing aspect of GIFs.</p><br><p class="statement-text">My main goal this year has been to teach myself animation techniques, which is something I plan to continue. I want to embrace the internet as a location and distribution tool for my animation and illustration work, and finally become &#8220;famous&#8221; on Tumblr, Instagram, or whatever new social media platform is about to break out. I also want to open a couple of Etsy shops, one for laser cut acrylic jewelry and one for custom watercolor paintings of people&#8217;s dogs. My long-term goals are to bowl over 200 and remember to wear sunscreen every day.</p><br><p class="statement-text"><a href="mailto:meghan.treptow@gmail.com">meghan.treptow@gmail.com</a></p><br><p class="statement-text"><a href="https://www.instagram.com/romptart/">Instagram</a></p></div>
 
 - name: Miguel Vazquez
   themes:
       - "Science / Existentialism"
   images:
-      - caption: '<div class="caption">Miguel Vazquez. <i>Light Trails from Galena to Chicago #18<i>, 2015 / Digital print 16"&nbsp;&times;&nbsp;24"</div>'
+      - caption: '<div class="caption">Miguel Vazquez. <i>Light Trails from Galena to Chicago #18</i>, 2015 / Digital print 16"&nbsp;&times;&nbsp;24"</div>'
         url: photos/vazquez-1.jpg
         thumb: thumbnails/vazquez-1_thumb.jpg
-      - caption: '<div class="caption">Miguel Vazquez. <i>Light Trails from Galena to Chicago #20<i>, 2015 / Digital print 16"&nbsp;&times;&nbsp;24"</div>'
+      - caption: '<div class="caption">Miguel Vazquez. <i>Light Trails from Galena to Chicago #20</i>, 2015 / Digital print 16"&nbsp;&times;&nbsp;24"</div>'
         url: photos/vazquez-2.jpg
         thumb: thumbnails/vazquez-2_thumb.jpg
-      - caption: '<div class="caption">Miguel Vazquez. Installation photo, <i>From Galena to Chicago<i>, 2015 / Digital photograph 10&#39;&nbsp;&times;&nbsp;10&#39;&nbsp;&times;&nbsp;20&#39;</div>'
+      - caption: '<div class="caption">Miguel Vazquez. Installation photo, <i>From Galena to Chicago</i>, 2015 / Digital photograph 10&#39;&nbsp;&times;&nbsp;10&#39;&nbsp;&times;&nbsp;20&#39;</div>'
         url: photos/vazquez-3.jpg
         thumb: thumbnails/vazquez-3_thumb.jpg
-      - caption: '<div class="caption">Miguel Vazquez. Installation photo, <i>From Galena to Chicago<i>, 2015 / Digital photograph 10&#39;&nbsp;&times;&nbsp;10&#39;&nbsp;&times;&nbsp;20&#39;</div>'
+      - caption: '<div class="caption">Miguel Vazquez. Installation photo, <i>From Galena to Chicago</i>, 2015 / Digital photograph 10&#39;&nbsp;&times;&nbsp;10&#39;&nbsp;&times;&nbsp;20&#39;</div>'
         url: photos/vazquez-4.jpg
         thumb: thumbnails/vazquez-4_thumb.jpg
-      - caption: '<div class="caption">Miguel Vazquez. <i>Aura 01<i>, 2016 / Digital print 24"&nbsp;&times;&nbsp;36"</div>'
+      - caption: '<div class="caption">Miguel Vazquez. <i>Aura 01</i>, 2016 / Digital print 24"&nbsp;&times;&nbsp;36"</div>'
         url: photos/vazquez-5.jpg
         thumb: thumbnails/vazquez-5_thumb.jpg
-      - caption: '<div class="caption">Miguel Vazquez. <i>The Father & the Son<i>, 2016 / Digital print 16"&nbsp;&times;&nbsp;24"</div>'
+      - caption: '<div class="caption">Miguel Vazquez. <i>The Father & the Son</i>, 2016 / Digital print 16"&nbsp;&times;&nbsp;24"</div>'
         url: photos/vazquez-6.jpg
         thumb: thumbnails/vazquez-6_thumb.jpg
-      - caption: '<div class="caption">Miguel Vazquez. <i>In the Name of the Son<i>, 2016 / Digital print 8"&nbsp;&times;&nbsp;10"</div>'
+      - caption: '<div class="caption">Miguel Vazquez. <i>In the Name of the Son</i>, 2016 / Digital print 8"&nbsp;&times;&nbsp;10"</div>'
         url: photos/vazquez-7.jpg
         thumb: thumbnails/vazquez-7_thumb.jpg
-      - caption: '<div class="caption">Miguel Vazquez. <i>Ghost in the Quad<i>, 2016 / Digital print, mixed media 8"&nbsp;&times;&nbsp;10"</div>'
+      - caption: '<div class="caption">Miguel Vazquez. <i>Ghost in the Quad</i>, 2016 / Digital print, mixed media 8"&nbsp;&times;&nbsp;10"</div>'
         url: photos/vazquez-8.jpg
         thumb: thumbnails/vazquez-8_thumb.jpg
-      - caption: '<div class="caption">Miguel Vazquez. Detail of<i>Ghost in the Quad<i>, 2016 / Digital print, mixed media 8"&nbsp;&times;&nbsp;10"</div>'
+      - caption: '<div class="caption">Miguel Vazquez. Detail of <i>Ghost in the Quad</i>, 2016 / Digital print, mixed media 8"&nbsp;&times;&nbsp;10"</div>'
         url: photos/vazquez-9.jpg
         thumb: thumbnails/vazquez-9_thumb.jpg
-      - caption: '<div class="caption">Miguel Vazquez. <i>Revolution Mag<i>, 2015 / Print magazine 8.5"&nbsp;&times;&nbsp;11"</div>'
+      - caption: '<div class="caption">Miguel Vazquez. <i>Revolution Mag</i>, 2015 / Print magazine 8.5"&nbsp;&times;&nbsp;11"</div>'
         url: photos/vazquez-10.jpg
         thumb: thumbnails/vazquez-10_thumb.jpg
-      - caption: '<div class="caption">Miguel Vazquez. Detail of <i>Revolution Mag<i>, 2015 / Print magazine 8.5"&nbsp;&times;&nbsp;11"</div>'
+      - caption: '<div class="caption">Miguel Vazquez. Detail of <i>Revolution Mag</i>, 2015 / Print magazine 8.5"&nbsp;&times;&nbsp;11"</div>'
         url: photos/vazquez-11.jpg
         thumb: thumbnails/vazquez-11_thumb.jpg
-      - caption: '<div class="caption">Miguel Vazquez. <i>RTV Head (a.k.a Abe)<i>, 2015 / Interactive sculpture 4&#39;&nbsp;&times;&nbsp;4&#39;&nbsp;&times;&nbsp;3&#39;</div>'
+      - caption: '<div class="caption">Miguel Vazquez. <i>RTV Head (a.k.a Abe)</i>, 2015 / Interactive sculpture 4&#39;&nbsp;&times;&nbsp;4&#39;&nbsp;&times;&nbsp;3&#39;</div>'
         url: photos/vazquez-12.jpg
         thumb: thumbnails/vazquez-12_thumb.jpg
 
   text: >
       <div id="statement"><div class="subtitle">Photographer&nbsp;/ Curator&nbsp;/ Organizer&nbsp;/ Activist&nbsp;/ New Media Artist&nbsp;/ Aspiring Filmmaker</div><p class="statement-text">From my love of film to social activism, I have always felt the urge to participate and create through drawing, photography or moving image. As a film buff, I was eager to use photography to address formal concerns like framing and composition, and I took portraits of my family and neighborhood. I then started using photography in conjunction with social movements. I joined the group La Voz de los de Abajo and VillArte and used the arts to advance our activism, document our work and publicize events. La Voz works in solidarity with the Campesino movement in Honduras and VillArte promoting the Arts in the Little Village neighborhood.</p><br><p class="statement-text">I enrolled in UIC to expand my experience with different media, develop my own artistic language and make connections with other artists. Although my art was independent from my social activism, it was always related. My work brings into question my habits and my perceived norms of society in an attempt to find the connections between us all. I take a social and philosophical approach to our consumer culture by presenting it recognizably, and then twisting it into a place of contemplation. I invite questions about our interaction with technology, the media we consume and that which we choose to engage with or ignore. My materials are everyday objects such as computers, magazines, photographs and other household items.</p></div>
 
-- name: Paige A. Wynne
+- name: Paige Wynne
   themes:
       - "Family / Identity / Memory"
   images:
