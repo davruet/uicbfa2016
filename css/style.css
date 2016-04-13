@@ -1,39 +1,43 @@
 @font-face {
    font-family: 'Stanley-Regular';
-      src: url('/fonts/Stanley-Regular.eot');
-      src: url('/fonts/Stanley-Regular.eot?#iefix') format('embedded-opentype'),
-           url('/fonts/Stanley-Regular.woff') format('woff'),
-           url('/fonts/Stanley-Regular.ttf') format('truetype'),
+      src: url('../fonts/Stanley-Regular.eot');
+      src: url('../fonts/Stanley-Regular.eot?#iefix') format('embedded-opentype'),
+           url('../fonts/Stanley-Regular.woff') format('woff'),
+           url('../fonts/Stanley-Regular.ttf') format('truetype'),
+           url('../fonts/Stanley-Regular.svg#Stanley-Regular') format('svg');
    font-weight: normal;
    font-style: normal;
 }
 
 @font-face {
    font-family: 'Stanley-Bold';
-      src: url('/fonts/Stanley-Bold.eot');
-      src: url('/fonts/Stanley-Bold.eot?#iefix') format('embedded-opentype'),
-           url('/fonts/Stanley-Bold.woff') format('woff'),
-           url('/fonts/Stanley-Bold.ttf') format('truetype'),
+      src: url('../fonts/Stanley-Bold.eot');
+      src: url('../fonts/Stanley-Bold.eot?#iefix') format('embedded-opentype'),
+           url('../fonts/Stanley-Bold.woff') format('woff'),
+           url('../fonts/Stanley-Bold.ttf') format('truetype'),
+           url('../fonts/Stanley-Bold.svg#Stanley-Bold') format('svg');
    font-weight: bold;
    font-style: normal;
 }
 
 @font-face {
    font-family: 'Stanley-BoldItalic';
-      src: url('/fonts/Stanley-BoldItalic.eot');
-      src: url('/fonts/Stanley-BoldItalic.eot?#iefix') format('embedded-opentype'),
-           url('/fonts/Stanley-BoldItalic.woff') format('woff'),
-           url('/onts/Stanley-BoldItalic.ttf') format('truetype'),
+      src: url('../fonts/Stanley-BoldItalic.eot');
+      src: url('../fonts/Stanley-BoldItalic.eot?#iefix') format('embedded-opentype'),
+           url('../fonts/Stanley-BoldItalic.woff') format('woff'),
+           url('../fonts/Stanley-BoldItalic.ttf') format('truetype'),
+           url('../fonts/Stanley-BoldItalic.svg#Stanley-Italic') format('svg');
    font-weight: bold;
    font-style: italic;
 }
 
 @font-face {
    font-family: 'Stanley-Italic';
-      src: url('/fonts/Stanley-Italic.eot');
-      src: url('/fonts/Stanley-Italic.eot?#iefix') format('embedded-opentype'),
-           url('/fonts/Stanley-Italic.woff') format('woff'),
-           url('/fonts/Stanley-Italic.ttf') format('truetype'),
+      src: url('../fonts/Stanley-Italic.eot');
+      src: url('../fonts/Stanley-Italic.eot?#iefix') format('embedded-opentype'),
+           url('../fonts/Stanley-Italic.woff') format('woff'),
+           url('../fonts/Stanley-Italic.ttf') format('truetype'),
+           url('../fonts/Stanley-Italic.svg#Stanley-Italic') format('svg');
    font-weight: normal;
    font-style: italic;
 }
@@ -198,7 +202,7 @@ a:hover {
 }
 
 #nav {
-	font-family: "Stanley-Regular", "Times New Roman", Times, serif;
+	font-family: "Stanley-Bold", "Times New Roman", Times, serif;
 	font-weight: bold;
 	text-align: center;
 	font-size: 20px;
@@ -339,6 +343,7 @@ ul.section-list {
 }
 
 #statement {
+	font-family: "Stanley-Bold";
 	font-weight: bold;
 	width: 550px;
 	margin: 50px 10%;
@@ -350,6 +355,7 @@ ul.section-list {
 }
 
 .statement-text {
+	font-family: "Stanley-Bold";
 	font-weight: bold;
 }
 
@@ -382,6 +388,7 @@ ul.section-list {
 }
 
 .statement-text i {
+	font-family: "Stanley-BoldItalic";
 	font-weight: bold;
 	font-style: italic;
 }
