@@ -61,6 +61,7 @@ time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
+	overflow-x: hidden;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
@@ -98,7 +99,6 @@ html {
 	background-color: #e9e9e9;
 	font-family: "Stanley-Regular", "Times New Roman", Times, serif;
 	width: 100%;
-	overflow-x: hidden;
 	-webkit-font-smoothing: antialiased;
 }
 
@@ -236,6 +236,7 @@ a:hover {
 	padding: 10px 25px;
 	z-index: 1000;
 	overflow-y: scroll;
+	overflow-x: hidden;
 	-webkit-overflow-scrolling: touch;
 	box-sizing: border-box;
 	display: none;
@@ -495,6 +496,10 @@ ul.section-list {
 	padding-bottom: 0;
 	background-color: #e9e9e9;
 	box-sizing: border-box;
+}
+
+#statement {
+	margin: 50px 0;
 }
 
 .item {
