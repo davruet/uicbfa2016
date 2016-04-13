@@ -92,9 +92,9 @@
 
 #fancybox-loading div {
 	width: 131px;
-	height: 24px;
+	height: 28px;
 	background: url('../fancybox/loading.gif') center center no-repeat;
-	background-size: 131px 24px;
+	background-size: 131px 28px;
 }
 
 .fancybox-close {
@@ -306,7 +306,9 @@
 	   only screen and (min-device-pixel-ratio: 1.5){
 
 	#fancybox-loading div {
+		width: 65px;
+		height: 14px;
 		background-image: url('../fancybox/loading.gif');
-		background-size: 65px 12px; /*The size of the normal image, half the size of the hi-res image*/
+		background-size: 65px 14px; /*The size of the normal image, half the size of the hi-res image*/
 	}
 }
