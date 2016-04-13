@@ -84,10 +84,8 @@
 	position: fixed;
 	top: 50%;
 	left: 50%;
-	margin-top: -22px;
-	margin-left: -22px;
+	margin-left: -55px;
 	background-position: 0 -108px;
-	opacity: 0.8;
 	cursor: pointer;
 	z-index: 8060;
 }
@@ -150,7 +148,7 @@
 }
 
 .fancybox-nav:hover span {
-	visibility: none;
+	visibility: visible;
 }
 
 .fancybox-tmp {
