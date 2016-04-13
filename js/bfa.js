@@ -98,6 +98,10 @@ $(document).ready(function(){
         $('#index').toggle();
     });
 
+    $('.section').click(function() {
+        $('#index').toggle();
+    });
+
     $('#info-toggle').click(function() {
         $('#info').toggle();
     });

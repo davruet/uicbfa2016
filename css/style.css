@@ -230,6 +230,7 @@ a:hover {
 	padding: 10px 25px;
 	z-index: 1000;
 	overflow-y: scroll;
+	-webkit-overflow-scrolling: touch;
 	box-sizing: border-box;
 	display: none;
 
