@@ -100,6 +100,7 @@ html {
 	font-family: "Stanley-Regular", "Times New Roman", Times, serif;
 	width: 100%;
 	-webkit-font-smoothing: antialiased;
+	-webkit-text-size-adjust: 100%;
 }
 
 p {
