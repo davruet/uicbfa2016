@@ -1,5 +1,5 @@
 @font-face {
-   font-family: 'Stanley-Regular';
+   font-family: 'Stanley';
       src: url('../fonts/Stanley-Regular.eot');
       src: url('../fonts/Stanley-Regular.eot?#iefix') format('embedded-opentype'),
            url('../fonts/Stanley-Regular.woff') format('woff'),
@@ -92,7 +92,7 @@ color: #F5532E;
 
 html {
 	background-color: #e9e9e9;
-	font-family: "Stanley-Regular", "Times New Roman", Times, serif;
+	font-family: "Stanley", "Times New Roman", Times, serif;
 	width: 100%;
 	-webkit-font-smoothing: antialiased;
 }
