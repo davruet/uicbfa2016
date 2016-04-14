@@ -150,6 +150,8 @@ $(document).ready(function(){
     function pageChange(){
       showPage(location.hash.substring(1))
       $('#header-main').css('display','block')
+      $("html, body").scrollTop(0);
+      return false;
     }
 
     if (location.hash){
