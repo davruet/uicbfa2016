@@ -184,8 +184,6 @@ p {
 	position: fixed;
 	clear: left;
 	overflow-y: hidden;
-
-
 }
 
 a {
@@ -374,6 +372,10 @@ ul.section-list {
 	position: relative;
 }
 
+#text {
+	margin-top: 400px;
+}
+
 .statement-text {
 	font-family: "Stanley-Bold";
 	font-weight: bold;
@@ -436,7 +438,7 @@ ul.section-list {
 
 #title {
 	margin-top: 10px;
-	font-size: 150px;
+	font-size: 140px;
 	line-height: 150px;
 }
 
@@ -492,6 +494,20 @@ ul.section-list {
 	padding-left: 0;
 }
 
+#uic-home {
+	width: 30px;
+	height: 30px;
+	opacity: 1.5;
+	position: fixed;
+	top: 6px;
+	right: 20px;
+	z-index: 100;
+}
+
+#text {
+	margin-top: 190px;
+}
+
 .free-wall {
 	margin-top: 100px;
 }
@@ -516,11 +532,6 @@ ul.section-list {
 #uic-home {
 	width: 20px;
 	height: 20px;
-	opacity: 1.5;
-	position: fixed;
-	top: 6px;
-	right: 20px;
-	z-index: 100;
 }
 
 .free-wall,
