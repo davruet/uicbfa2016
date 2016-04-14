@@ -61,7 +61,6 @@ time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
-	overflow-x: hidden;
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
@@ -183,7 +182,6 @@ p {
 	width: 80%;
 	z-index: -1;
 	position: fixed;
-	background-color: #e9e9e9;
 	clear: left;
 	overflow-y: hidden;
 
@@ -420,9 +418,14 @@ ul.section-list {
 	height: 40px;
 	opacity: 0.4;
 	position: fixed;
-	left: 20px;
-	bottom: 40px;
-	z-index: -2;
+	right: 60px;
+	top: 50px;
+	z-index: 39;
+}
+
+#uic-home a:hover,
+#uic-home a:active {
+	opacity: .7;
 }
 
 #uic-home img {
@@ -505,6 +508,21 @@ ul.section-list {
 
 @media (max-width: 500px) {
 
+#header-main {
+	font-size: 14px;
+	padding-bottom: 0;
+}
+
+#uic-home {
+	width: 20px;
+	height: 20px;
+	opacity: 1.5;
+	position: fixed;
+	top: 6px;
+	right: 20px;
+	z-index: 100;
+}
+
 .free-wall,
 .artist-wall {
 	width: 95%;
@@ -518,13 +536,6 @@ ul.section-list {
 	padding-bottom: 0;
 	background-color: #e9e9e9;
 	box-sizing: border-box;
-}
-
-#uic-home {
-	position: fixed;
-	left: 20px;
-	bottom: 70px;
-	z-index: -2;
 }
 
 #statement {
@@ -560,8 +571,7 @@ p {
 	
 #header,
 #header-main {
-	font-size: 17px;
-	padding-bottom: 5px;
+	font-size: 14px;
 }
 
 .item {
