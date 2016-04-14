@@ -354,7 +354,7 @@ ul.section-list {
 
 .free-wall {
 	width: 80%;
-	margin: 20px 0 0 50px;
+	margin: 50px 0 0 50px;
 }
 
 .artist-wall {
@@ -493,7 +493,7 @@ ul.section-list {
 }
 
 .free-wall {
-	margin-top: 50px;
+	margin-top: 100px;
 }
 
 
@@ -526,7 +526,6 @@ ul.section-list {
 .free-wall,
 .artist-wall {
 	width: 95%;
-	margin: 50px auto;
 	box-sizing: border-box;
 }
 
