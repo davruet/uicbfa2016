@@ -11,12 +11,14 @@ function shuffle(sourceArray) {
 }
 
 function encodeName(name){
-  return encodeURIComponent( name.replace(" ", "-"));
+
+  var stripped = name.replace(new RegExp("[^a-zA-Z\\d]+", "g"), "-");
+  var encoded =  encodeURIComponent(stripped);
+  return encoded;
 }
 
 function showPage(p){
   var page = pageMap[p];
-  console.log(page);
   if (page){
     document.getElementById("title").innerHTML = page.name;
 
@@ -40,8 +42,8 @@ function showPage(p){
 
       var count = html.length;
 
-      for (var i = 0; i < count * 4; i++){
-        html.push("<div class='brick' style: 'width: 300px; height: 300px; background-color: rgb(0, 106, 63);'><div>Test</div></div>");
+      for (var i = 0; i < count ; i++){
+        html.push("<div class='brick' style: 'width: 300px; height: 300px; background-color: rgb(0, 106, 63);'></div>");
       }
 
       shuffle(html);
@@ -81,12 +83,35 @@ var yamlObj = YAML.load('content.yml');
 var pageMap = {};
 var themeMap = {};
 
+function addUserToTheme(user, theme){
+  var images;
+  if (!theme.images){
+    theme.images = [];   
+  }
+  images = theme.images;
+  user.images.map(function(img){
+    images.push(img);
+  });
+}
+
 function addPage(page){
   pageMap[encodeName(page.name)] = page;
+  // Create a theme page if it doesn't exist
+  if (page.themes){
+    page.themes.map(function(themeName){
+      var theme = pageMap[encodeName(themeName)];
+      if (!theme){
+        theme = {};
+        theme.text = "";
+        theme.name = themeName;
+        pageMap[encodeName(themeName)] = theme;
+      };
+      addUserToTheme(page, theme);
+    });
+  }
 }
 
 yamlObj.map(addPage);
-console.log(pageMap);
 
 
 $(document).ready(function(){
