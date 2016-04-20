@@ -274,7 +274,8 @@ a:hover {
 	overflow-y: hidden;
 }
 
-.r {
+.r,
+.r1 {
 	color: #e9e9e9;
 	width: 215px;
 	margin-bottom: 5px;
@@ -536,6 +537,7 @@ ul.section-list {
 .l,
 .c,
 .r,
+.r1,
 .r2,
 .t {
 	width: 100%;
@@ -620,7 +622,7 @@ ul.section-list {
 
 @media (max-width: 450px) {
 
-.r {
+.r1 {
 	width: 150px;
 }
 
@@ -654,7 +656,7 @@ p,
 }
 
 .c,
-.r {
+.r1 {
 	width: 35%;
 	margin-right: 100px;
 }
