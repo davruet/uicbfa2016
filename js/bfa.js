@@ -123,16 +123,20 @@ $(document).ready(function(){
         $('#index').toggle();
     });
 
-    $('.section').click(function() {
+    $('.off-index').click(function() {
         $('#index').toggle();
     });
 
-    $('#info-toggle').click(function() {
-        $('#info').toggle();
+    $('.off-about').click(function() {
+        $('#about').toggle();
     });
 
-    $('.close-info').click(function() {
-        $('#info').toggle();
+    $('#about-toggle').click(function() {
+        $('#about').toggle();
+    });
+
+    $('.close-about').click(function() {
+        $('#about').toggle();
     });
 
     $('#exhibition-toggle').click(function() {
@@ -143,7 +147,7 @@ $(document).ready(function(){
         $('#exhibition').toggle();
     });
 
-    $( ".section a").each(function(){
+    $( ".change-page a").each(function(){
         this.href="#" + encodeName(this.innerHTML);
     });
 

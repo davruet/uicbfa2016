@@ -806,8 +806,82 @@
   text: >
       <div id="statement"><div class="subtitle">Photographer&nbsp&#43; Filmmaker</div><p class="statement-text">I explore the stories unfolding in my life. Through film, photographs, audio recording and writing, I use the documentary form to create work that is thematically and emotionally resonant with my current experiences. My project, <i>HOME</i>, documents my parents, who are divorced but still living at home together, in their most natural and comfortable of environments: our house. I investigate how they define and experience home, and what they have sacrificed to make a home for me. As an only child, our family structure creates a triangle, which makes us more dependent on each other. My process for gathering material is slow and intuitive: I simply observe, in the most patient of ways, until I gain a sense of what makes my subject unique and worth remembering. As soon as the feeling is present I hit record.</p><br><p class="statement-text">After graduation, I hope to continue working at the video department at UIC, and will sustain my documentary practice. I also am going to start volunteering at the UIC Hospital as a UI Care liaison for the first 100 hours, and then go into specialty units such as obstetrics and the baby cuddling/neonatal intensive care unit. And I plan to volunteer at PAWS Chicago or The Anti-Cruelty society to work with dogs. Also, I hope to travel outside of the US, maybe backpacking through Europe, South Africa or South America.</p><br><p class="statement-text"><a href="mailto:Paigeashley469@gmail.com">Paigeashley469@gmail.com</a></p></div>
 
+- name: "Thesis Show, April 15–22, 2016"
+  images:
+      - caption: '&nbsp;'
+        url: photos/exhibition-1.jpg
+        thumb: thumbnails/exhibition-1_thumb.jpg
+      - caption: '&nbsp;'
+        url: photos/exhibition-2.jpg
+        thumb: thumbnails/exhibition-2_thumb.jpg
+      - caption: '&nbsp;'
+        url: photos/exhibition-3.jpg
+        thumb: thumbnails/exhibition-3_thumb.jpg
+      - caption: '&nbsp;'
+        url: photos/exhibition-4.jpg
+        thumb: thumbnails/exhibition-4_thumb.jpg
+      - caption: '&nbsp;'
+        url: photos/exhibition-5.jpg
+        thumb: thumbnails/exhibition-5_thumb.jpg
+      - caption: '&nbsp;'
+        url: photos/exhibition-6.jpg
+        thumb: thumbnails/exhibition-6_thumb.jpg
+      - caption: '&nbsp;'
+        url: photos/exhibition-7.jpg
+        thumb: thumbnails/exhibition-7_thumb.jpg
+      - caption: '&nbsp;'
+        url: photos/exhibition-8.jpg
+        thumb: thumbnails/exhibition-8_thumb.jpg
+      - caption: '&nbsp;'
+        url: photos/exhibition-9.jpg
+        thumb: thumbnails/exhibition-9_thumb.jpg
+      - caption: '&nbsp;'
+        url: photos/exhibition-10.jpg
+        thumb: thumbnails/exhibition-10_thumb.jpg
+      - caption: '&nbsp;'
+        url: photos/exhibition-11.jpg
+        thumb: thumbnails/exhibition-11_thumb.jpg
+      - caption: '&nbsp;'
+        url: photos/exhibition-12.jpg
+        thumb: thumbnails/exhibition-12_thumb.jpg
+      - caption: '&nbsp;'
+        url: photos/exhibition-13.jpg
+        thumb: thumbnails/exhibition-13_thumb.jpg
+      - caption: '&nbsp;'
+        url: photos/exhibition-14.jpg
+        thumb: thumbnails/exhibition-14_thumb.jpg
+      - caption: '&nbsp;'
+        url: photos/exhibition-15.jpg
+        thumb: thumbnails/exhibition-15_thumb.jpg
+      - caption: '&nbsp;'
+        url: photos/exhibition-16.jpg
+        thumb: thumbnails/exhibition-16_thumb.jpg
+      - caption: '&nbsp;'
+        url: photos/exhibition-17.jpg
+        thumb: thumbnails/exhibition-17_thumb.jpg
+      - caption: '&nbsp;'
+        url: photos/exhibition-18.jpg
+        thumb: thumbnails/exhibition-18_thumb.jpg
+      - caption: '&nbsp;'
+        url: photos/exhibition-19.jpg
+        thumb: thumbnails/exhibition-19_thumb.jpg
+      - caption: '&nbsp;'
+        url: photos/exhibition-20.jpg
+        thumb: thumbnails/exhibition-20_thumb.jpg
+      - caption: '&nbsp;'
+        url: photos/exhibition-21.jpg
+        thumb: thumbnails/exhibition-21_thumb.jpg
+      - caption: '&nbsp;'
+        url: photos/exhibition-22.jpg
+        thumb: thumbnails/exhibition-22_thumb.jpg
+      - caption: '&nbsp;'
+        url: photos/exhibition-23.jpg
+        thumb: thumbnails/exhibition-23_thumb.jpg
+      - caption: '&nbsp;'
+        url: photos/exhibition-24.jpg
+        thumb: thumbnails/exhibition-24_thumb.jpg
+      - caption: '&nbsp;'
+        url: photos/exhibition-25.jpg
+        thumb: thumbnails/exhibition-25_thumb.jpg
 
-
-
-
-
+  text: "&nbsp;"

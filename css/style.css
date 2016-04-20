@@ -148,7 +148,7 @@ p {
 
 #exhibition img,
 #index img,
-#info img {
+#about img {
 	margin-bottom: 20px;
 	max-width: 100%;
 }
@@ -172,8 +172,8 @@ p {
 
 #title,
 #title-artist {
-	font-size: 180px;
-	line-height: 175px;
+	font-size: 160px;
+	line-height: 150fpx;
 	padding: 20px;
 	margin-top: 1vh;
 	top: 0px;
@@ -183,6 +183,7 @@ p {
 	z-index: -1;
 	position: fixed;
 	clear: left;
+	overflow-x: hidden;
 	overflow-y: hidden;
 }
 
@@ -212,7 +213,7 @@ a:hover {
 	font-size: 20px;
 	line-height: 40px;
 	padding-bottom: 2%;
-	padding-right: 3%;
+	padding-right: 60px;
 	position: fixed;
 	bottom: 0px;
 	right: 0px;
@@ -221,7 +222,7 @@ a:hover {
 }
 
 #index,
-#info,
+#about,
 #exhibition {
 	color: #e9e9e9;
 	width: 750px;
@@ -256,6 +257,12 @@ a:hover {
 	right: 10px;
 }
 
+#credits {
+	position: absolute;
+	bottom: 10px;
+	right: 10px;
+}
+
 
 .l, .c {
 	color: #e9e9e9;
@@ -268,6 +275,15 @@ a:hover {
 }
 
 .r {
+	color: #e9e9e9;
+	width: 215px;
+	margin-bottom: 5px;
+	float: left;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+
+.r2 {
 	color: #e9e9e9;
 	width: 215px;
 	margin-bottom: 5px;
@@ -289,10 +305,11 @@ a:hover {
 .l::-webkit-scrollbar,
 .c::-webkit-scrollbar,
 .r::-webkit-scrollbar,
+.r2::-webkit-scrollbar,
 .t::-webkit-scrollbar,
 .x::-webkit-scrollbar,
 #exhibition::-webkit-scrollbar,
-#info::-webkit-scrollbar,
+#about::-webkit-scrollbar,
 #index::-webkit-scrollbar {
  	display: none;
 }
@@ -316,12 +333,14 @@ h2 {
 	line-height: 15px;
 }
 
+
 h3 {
 	font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 	letter-spacing: .5px;
 	font-size: 12px;
-	line-height: 15px;
+	line-height: 17px;
 }
+
 
 .section {
 	width: 100%;
@@ -335,11 +354,15 @@ h3 {
 
 ul.section-list a,
 ul.section-list a:visited,
-ul.section-list a:active {
+ul.section-list a:active,
+.r2 a,
+.r2 a:visited,
+.r2 a:active {
 	color: #e9e9e9;
 }
 
-ul.section-list a:hover {
+ul.section-list a:hover,
+.r2 a:hover {
 	color: #111;
 	background-color: #e9e9e9;
 }
@@ -434,12 +457,32 @@ ul.section-list {
 	max-width: 100%;
 }
 
+.about-text {
+	padding-top: 4px;
+	border-top: solid 1px #e9e9e9;
+	margin-top: 50px;
+	font-size: 24px;
+	line-height: 32px;
+}
+
+.about-text a,
+.about-text a:visited,
+.about-text a:active {
+	color: #e9e9e9;
+	border-bottom: 1px dotted #e9e9e9;
+}
+
+.about-text a:hover {
+	color: #111;
+	background-color: #e9e9e9;
+}
+
 @media (max-width: 1091px) {
 
 #title {
 	margin-top: 10px;
 	font-size: 140px;
-	line-height: 150px;
+	line-height: 134px;
 }
 
 #title-artist {
@@ -453,7 +496,7 @@ ul.section-list {
 @media (max-width: 750px) {
 
 #index,
-#info,
+#about,
 #exhibition {
 	width: 100%;
 	border: none;
@@ -461,10 +504,22 @@ ul.section-list {
 }
 
 #bottom {
+	width: 100%;
 	position: relative;
 	margin: 50px 0 50px 10px;
 	padding-top: 6px;
 	border-top: 1px solid #e9e9e9;
+}
+
+#credits {
+	float: right;
+	position: relative;
+	margin: -50px 0 50px 0;
+}
+
+
+#nav {
+	padding-right: 30px;
 }
 
 #top {
@@ -481,6 +536,7 @@ ul.section-list {
 .l,
 .c,
 .r,
+.r2,
 .t {
 	width: 100%;
 }
@@ -537,7 +593,7 @@ ul.section-list {
 
 #nav {
 	width: 100%;
-	padding-left: 45px;
+	padding-left: 90px;
 	padding-bottom: 0;
 	background-color: #e9e9e9;
 	box-sizing: border-box;
@@ -549,12 +605,12 @@ ul.section-list {
 
 .item {
 	display: inline-block;
-	margin-right: 40px;
+	margin-right: 50px;
 	padding-top: 5px;
 }
 
 #index,
-#info,
+#about,
 #exhibition {
 	padding: 10px 10px;
 
@@ -562,9 +618,23 @@ ul.section-list {
 
 }
 
+@media (max-width: 450px) {
+
+.r {
+	width: 150px;
+}
+
+.r2 {
+	margin-top: 20px;
+}
+
+
+}
+
 @media (max-width: 400px) {
 
-p {
+p,
+.about-text {
 	font-size: 18px;
 	line-height: 23px;
 
@@ -579,12 +649,22 @@ p {
 	font-size: 14px;
 }
 
-.item {
-	margin-right: 20px;
+#nav {
+	padding-left: 60px;
 }
 
-#nav {
-	padding-left: 30px;
+.c,
+.r {
+	width: 35%;
+	margin-right: 100px;
+}
+
+.item {
+	margin-right: 30px;
+}
+
+.r2 {
+	margin-top: -30px;
 }
 
 
