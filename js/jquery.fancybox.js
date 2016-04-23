@@ -126,7 +126,7 @@
 				prev : 'right'
 			},
 
-			scrollOutside  : true,
+			scrollOutside  : false,
 
 			// Override some properties
 			index   : 0,
