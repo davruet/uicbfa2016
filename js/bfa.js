@@ -1,3 +1,4 @@
+const MAIN_PAGE_IMAGES_PER_ARTIST = 2;
 
 function shuffle(sourceArray) {
     for (var i = 0; i < sourceArray.length - 1; i++) {
@@ -18,7 +19,12 @@ function encodeName(name){
 }
 
 function showPage(p){
-  var page = pageMap[p];
+  var page;
+  if (p){
+    page = pageMap[p];
+  } else {
+    page = mainPage;
+  }
   if (page){
     document.getElementById("title").innerHTML = page.name;
 
@@ -81,6 +87,7 @@ function showPage(p){
 // Load student data
 var yamlObj = YAML.load('content.yml');
 var pageMap = {};
+var artistList = [];
 var themeMap = {};
 
 function addUserToTheme(user, theme){
@@ -95,7 +102,9 @@ function addUserToTheme(user, theme){
 }
 
 function addPage(page){
-  pageMap[encodeName(page.name)] = page;
+  var encodedName = encodeName(page.name);
+  pageMap[encodedName] = page;
+  artistList.push(encodedName);
   // Create a theme page if it doesn't exist
   if (page.themes){
     page.themes.map(function(themeName){
@@ -112,6 +121,21 @@ function addPage(page){
 }
 
 yamlObj.map(addPage);
+
+var mainPage = {"text": "",
+                "name": "As Little Defined As Anything Else",
+                "images":[]};
+
+// init main page images, one per artist, ramdomized.
+
+for (var i = 0; i < artistList.length; i++){
+  // get a copy of the image array
+  var images = pageMap[artistList[i]].images.slice();
+  shuffle(images);
+  for (var j = 0; j < MAIN_PAGE_IMAGES_PER_ARTIST; j++){
+    mainPage.images.push(images[j]);
+  }
+}
 
 
 $(document).ready(function(){
@@ -152,15 +176,15 @@ $(document).ready(function(){
     });
 
     function pageChange(){
-      showPage(location.hash.substring(1))
+      var page;
+      if (location.hash) page = location.hash.substring(1);
+      showPage(page);
       $('#header-main').css('display','block')
       $("html, body").scrollTop(0);
       return false;
     }
 
-    if (location.hash){
-      pageChange()
-    }    
+    pageChange();
 
     window.onhashchange = pageChange;
 
