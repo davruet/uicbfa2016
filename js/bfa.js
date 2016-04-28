@@ -22,6 +22,9 @@ function showPage(p){
   var page;
   if (p){
     page = pageMap[p];
+    // Add custom header and scroll to the top if not main page
+    $('#header-main').css('display','block')
+    $("html, body").scrollTop(0);
   } else {
     page = mainPage;
   }
@@ -179,8 +182,7 @@ $(document).ready(function(){
       var page;
       if (location.hash) page = location.hash.substring(1);
       showPage(page);
-      $('#header-main').css('display','block')
-      $("html, body").scrollTop(0);
+      
       return false;
     }
 
