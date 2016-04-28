@@ -376,7 +376,7 @@ ul.section-list {
 
 .free-wall {
 	width: 80%;
-	margin: 125px 0 0 50px;
+	margin: 125px 0 40px 50px;
 }
 
 .artist-wall {
@@ -398,6 +398,10 @@ ul.section-list {
 
 #text {
 	margin-top: 400px;
+}
+
+#text:empty {
+	display: none;
 }
 
 .statement-text {
@@ -568,7 +572,7 @@ ul.section-list {
 
 .free-wall {
 	width: 95%;
-	margin: 100px 0 0 10px;
+	margin: 90px 0 10px 10px;
 }
 
 
