@@ -622,6 +622,10 @@ ul.section-list {
 
 }
 
+.free-wall {
+	margin: 90px 0 40px 10px;
+}
+
 }
 
 @media (max-width: 450px) {
