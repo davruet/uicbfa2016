@@ -191,3 +191,7 @@ $(document).ready(function(){
     window.onhashchange = pageChange;
 
 });
+
+$(window).load(function() {
+  $(".page-loading").hide();
+})
