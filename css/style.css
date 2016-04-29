@@ -697,4 +697,14 @@ p,
 
 }
 
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+	   only screen and (min--moz-device-pixel-ratio: 1.5),
+	   only screen and (min-device-pixel-ratio: 1.5){
+
+	.page-loading img {
+		width: 65px;
+		height: 14px;
+	}
+}
+
 
